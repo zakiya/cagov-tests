@@ -1,0 +1,7 @@
+.env
+node_modules
+bitmaps_reference
+bitmaps_test
+ci_report
+html_report
+package-lock.json
