@@ -5,16 +5,18 @@
 1. clone repo
 3. cd cagov-tests/backstopjs
 4. `npm install`
+5. cp example.env
 
 ## Run tests
 
-1.  Go to covid19 repo root. (`z covid19`)
-2.  `git pull` (optional)
-3.  `npm run start`
-4.  Go to this project root in another terminal window. (`z backstopjs`)
-5.  Verify the url of the local site matches value in .env
-6.  Generate references with `npm run covid:init` 
-7.  
+1. Run covid locally
+    a.  Go to covid19 repo root. (`z covid19`)
+    b.  `git pull` (optional)
+    c.  `npm run start`
+5.  Go back to this project root in another terminal window. (`z backstopjs`)
+6.  Verify the url of the local site matches value in .env
+7.  Generate references with `npm run covid:init` 
+8.  
 
 ### Run interactive text
 
