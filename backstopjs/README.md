@@ -10,7 +10,7 @@
 ## Run tests
 
 1. Run covid locally
-   a. Go to covid19 repo root. (`z covid19`)
+   a. Go to covid19 repo root. (`z covid19`*)
    b. `git pull` (optional)
    c. `npm run start`
 2. Go back to this project root in another terminal window. (`z backstopjs`)
@@ -34,3 +34,7 @@ Test local against stored interactive references: `covid:interactive`
 - Split init and reference into separate scripts?
 - backstop.json is automatically generated with backstop init. Do we need it? want it?
 - be more thoughtful generally about where to store test-specific variables.
+
+
+*`z` is the command (z-sh)[https://github.com/agkozak/zsh-z] . `cd` also works!
+
