@@ -1,0 +1,48 @@
+cagov-chart-vaccines-hpi-by-people {
+    .bar-lower-label .tick text {
+      text-transform: capitalize;
+    }
+    .bar-lower-label {
+      font-weight: normal;
+      font-size: 0.75rem;
+    }
+    .bar-upper-label-1 {
+        font-weight: bold;
+        font-size: 0.75rem;
+    }
+    .bar-upper-label-2 {
+        font-weight: 300;
+        font-size: 0.75rem;
+    }
+    .bottom-annotation {
+        font-weight: 300;
+        font-size: 0.65rem;
+    }
+    .bar-cat {
+      font-weight: bold;
+      font-size: 0.95rem;
+    }
+    .legend-caption {
+      font-weight: 300;
+      font-size: 0.75rem;
+    }
+    #hatch1 {stroke:#2772B3; stroke-width:1.5;}
+    #hatch2 {stroke:#9FCAE0; stroke-width:1.5;}
+    #hatch3 {stroke:#A7DAA2; stroke-width:1.5;}
+    #hatch4 {stroke:#11873B; stroke-width:1.5;}
+    #hatchL {stroke:#000000; stroke-width:1.5;}
+    #hpi-bar-group1 .hpi-bar-1 { fill:url(#hatch1); }
+    #hpi-bar-group1 .hpi-bar-2  { fill:#2772B3 }
+    #hpi-bar-group2 .hpi-bar-1  { fill:url(#hatch2); }
+    #hpi-bar-group2 .hpi-bar-2 { fill:#9FCAE0 }
+    #hpi-bar-group3 .hpi-bar-1  { fill:url(#hatch3); }
+    #hpi-bar-group3 .hpi-bar-2 { fill:#A7DAA2 }
+    #hpi-bar-group4 .hpi-bar-1  { fill:url(#hatch4); }
+    #hpi-bar-group4 .hpi-bar-2{ fill:#11873B }
+    #legend-box-1 { fill:url(#hatchL); }
+    #legend-box-2 { fill:#000000; }
+}
+.d-hide {
+  display: none;
+}
+

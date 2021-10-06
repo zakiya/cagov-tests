@@ -1,0 +1,162 @@
+{
+  "Table1": [
+    {
+      "_section_index": "1",
+      "label": "Seguridad en la vida diaria"
+    },
+    {
+      "_section_index": "2",
+      "label": "Combate de la COVID-19"
+    },
+    {
+      "_section_index": "3",
+      "label": "La respuesta de California"
+    },
+    {
+      "_section_index": "4",
+      "label": "Servicios"
+    }
+  ],
+  "Table2": [
+    {
+      "_section_index": "1",
+      "label": "Medidas actuales de seguridad",
+      "_slug_or_url": "safely-reopening"
+    },
+    {
+      "_section_index": "1",
+      "label": "CA Notify",
+      "_slug_or_url": "https://canotify.ca.gov/"
+    },
+    {
+      "_section_index": "1",
+      "label": "Mascarillas",
+      "_slug_or_url": "masks-and-ppe"
+    },
+    {
+      "_section_index": "1",
+      "label": "Megaeventos",
+      "_slug_or_url": "mega-events"
+    },
+    {
+      "_section_index": "1",
+      "label": "Viajes",
+      "_slug_or_url": "travel"
+    },
+    {
+      "_section_index": "2",
+      "label": "Vacunas",
+      "_slug_or_url": "vaccines"
+    },
+    {
+      "_section_index": "2",
+      "label": "Vax for the Win",
+      "_slug_or_url": "vax-for-the-win"
+    },
+    {
+      "_section_index": "2",
+      "label": "Pruebas",
+      "_slug_or_url": "get-tested"
+    },
+    {
+      "_section_index": "2",
+      "label": "Rastreo de la COVID-19 en California",
+      "_slug_or_url": "state-dashboard"
+    },
+    {
+      "_section_index": "2",
+      "label": "Datos del avance en la vacunación",
+      "_slug_or_url": "vaccination-progress-data"
+    },
+    {
+      "_section_index": "2",
+      "label": "Rastreo de contactos",
+      "_slug_or_url": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19-Contact-Tracing.aspx"
+    },
+    {
+      "_section_index": "2",
+      "label": "Síntomas y riesgos",
+      "_slug_or_url": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Symptoms-Risks.aspx"
+    },
+    {
+      "_section_index": "3",
+      "label": "Cuerpo de Salud de California",
+      "_slug_or_url": "https://emsa.ca.gov/ca-health-corps/"
+    },
+    {
+      "_section_index": "3",
+      "label": "Contratos",
+      "_slug_or_url": "contracts"
+    },
+    {
+      "_section_index": "3",
+      "label": "Información y herramientas",
+      "_slug_or_url": "data-and-tools"
+    },
+    {
+      "_section_index": "3",
+      "label": "Lucha contra la discriminación",
+      "_slug_or_url": "discrimination"
+    },
+    {
+      "_section_index": "3",
+      "label": "Equidad en la salud y COVID‑19",
+      "_slug_or_url": "equity"
+    },
+    {
+      "_section_index": "4",
+      "label": "Educación y cuidado infantil",
+      "_slug_or_url": "education"
+    },
+    {
+      "_section_index": "4",
+      "label": "Aprendizaje a distancia",
+      "_slug_or_url": "distance-learning"
+    },
+    {
+      "_section_index": "4",
+      "label": "Apoyo emocional",
+      "_slug_or_url": "resources-for-emotional-support-and-well-being"
+    },
+    {
+      "_section_index": "4",
+      "label": "Trabajadores y empresas",
+      "_slug_or_url": "workers-and-businesses"
+    },
+    {
+      "_section_index": "4",
+      "label": "Ayuda financiera",
+      "_slug_or_url": "get-financial-help"
+    },
+    {
+      "_section_index": "4",
+      "label": "Recursos de alimentos",
+      "_slug_or_url": "food-resources"
+    },
+    {
+      "_section_index": "4",
+      "label": "Vivienda y alquiler",
+      "_slug_or_url": "housing-and-homelessness"
+    },
+    {
+      "_section_index": "4",
+      "label": "Ayuda para trabajadores agrícolas",
+      "_slug_or_url": "housing-for-agricultural-workers"
+    },
+    {
+      "_section_index": "4",
+      "label": "Ayuda para inmigrantes",
+      "_slug_or_url": "https://immigrantguide.ca.gov/en/covid19/"
+    },
+    {
+      "_section_index": "4",
+      "label": "Líneas de atención e información local",
+      "_slug_or_url": "get-local-information"
+    },
+    {
+      "_section_index": "4",
+      "label": "Ayuda para empresas",
+      "_slug_or_url": "business-and-employers"
+    }
+  ]
+}

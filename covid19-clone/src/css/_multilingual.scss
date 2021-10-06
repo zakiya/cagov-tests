@@ -1,0 +1,19 @@
+html:not([lang='en-US']) {
+  footer-section {
+    .social {
+			margin: 1.5rem auto;
+			@include tablet {
+				margin: 1rem 0 1rem 0;
+			}
+			@include desktop {
+				margin: 1.5rem 0 1.5rem 0;
+			}
+		}
+  }
+}
+
+/* moving search button to the left for arabic */
+html[dir="rtl"] .header-search-button {
+	right: unset !important;
+	left: 4px !important;
+}

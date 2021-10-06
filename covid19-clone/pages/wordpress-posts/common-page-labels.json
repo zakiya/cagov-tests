@@ -1,0 +1,277 @@
+{
+  "Table1": [
+    {
+      "_id": "california_for_all",
+      "text": "California for All"
+    },
+    {
+      "_id": "your_actions_save_lives",
+      "text": "Your Actions Save Lives"
+    },
+    {
+      "_id": "search",
+      "text": "Search"
+    },
+    {
+      "_id": "search_this_site",
+      "text": "Search this site"
+    },
+    {
+      "_id": "submit_search",
+      "text": "Submit Search"
+    },
+    {
+      "_id": "language",
+      "text": "Language"
+    },
+    {
+      "_id": "select_language",
+      "text": "Select language"
+    },
+    {
+      "_id": "more",
+      "text": "More …"
+    },
+    {
+      "_id": "menu",
+      "text": "Menu"
+    },
+    {
+      "_id": "menu_close",
+      "text": "Close"
+    },
+    {
+      "_id": "what_are_you_looking_for",
+      "text": "What are you looking for?"
+    },
+    {
+      "_id": "is_this_page_useful",
+      "text": "Did you find what you were looking for?"
+    },
+    {
+      "_id": "answer_yes",
+      "text": "Yes"
+    },
+    {
+      "_id": "answer_no",
+      "text": "No"
+    },
+    {
+      "_id": "additional_comments",
+      "text": "What was the problem?"
+    },
+    {
+      "_id": "good_what_were_you_looking_for",
+      "text": "Great! What were you looking for today?"
+    },
+    {
+      "_id": "this_field_required",
+      "text": "This field required"
+    },
+    {
+      "_id": "submit",
+      "text": "Submit"
+    },
+    {
+      "_id": "thank_you_for_your_comments",
+      "text": "Good!"
+    },
+    {
+      "_id": "thank_you_for_your_feedback",
+      "text": "Thank you for your feedback!"
+    },
+    {
+      "_id": "home",
+      "text": "Home"
+    },
+    {
+      "_id": "official_ca_website",
+      "text": "Official California State Government Website"
+    },
+    {
+      "_id": "last_updated",
+      "text": "Last updated"
+    },
+    {
+      "_id": "hotline_label",
+      "text": "COVID-19 hotline"
+    },
+    {
+      "_id": "hotline_hours",
+      "text": "M-F 8AM-8PM, Sa-Su 8AM-5PM"
+    },
+    {
+      "_id": "character_limit",
+      "text": "You have reached your character limit."
+    },
+    {
+      "_id": "anything_to_add",
+      "text": "If you have anything to add,"
+    },
+    {
+      "_id": "positive_survey_url",
+      "text": "https://ethn.io/85017"
+    },
+    {
+      "_id": "take_the_survey",
+      "text": "take the survey"
+    },
+    {
+      "_id": "any_other_feedback",
+      "text": "If you have any other feedback about this website,"
+    },
+    {
+      "_id": "negative_survey_url",
+      "text": "https://ethn.io/77745"
+    },
+    {
+      "_id": "take_our_survey",
+      "text": "take our survey"
+    },
+    {
+      "_id": "latest_news_title",
+      "text": "News from the Governor’s Office"
+    },
+    {
+      "_id": "var_latest_news",
+      "text": "From the Governor’s Office"
+    },
+    {
+      "_id": "var_view_more_news",
+      "text": "View more news"
+    },
+    {
+      "_id": "var_stats_header",
+      "text": "Tracking COVID-19"
+    },
+    {
+      "_id": "var_county_map",
+      "text": "County"
+    },
+    {
+      "_id": "var_state_summary",
+      "text": "State dashboard"
+    },
+    {
+      "_id": "var_update_text",
+      "text": "In California, Updated [UpdatedDate] with data from [DataDate]"
+    },
+    {
+      "_id": "var_hero_title",
+      "text": "Your actions save lives"
+    },
+    {
+      "_id": "var_hero_p1",
+      "text": "See what’s open in your county"
+    },
+    {
+      "_id": "var_hero_p2",
+      "text": "Wear a mask, wash your hands, and keep your distance."
+    },
+    {
+      "_id": "var_hero_alert_social",
+      "text": "Check the Governor’s Updates"
+    },
+    {
+      "_id": "var_people_want_to_know_title",
+      "text": "People want to know"
+    },
+    {
+      "_id": "var_go_to_top_label",
+      "text": "Top"
+    },
+    {
+      "_id": "var_go_to_top_duration",
+      "text": "7000"
+    }
+  ],
+  "Table2": [
+    {
+      "Name": "CA.gov",
+      "_URL": "https://www.ca.gov"
+    },
+    {
+      "Name": "Department of Public Health",
+      "_URL": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx"
+    },
+    {
+      "Name": "Governor’s Newsroom",
+      "_URL": "https://www.gov.ca.gov/newsroom/"
+    },
+    {
+      "Name": "Accessibility",
+      "_URL": "https://www.ca.gov/accessibility/"
+    },
+    {
+      "Name": "Privacy Policy",
+      "_URL": "https://www.ca.gov/privacy-policy/"
+    },
+    {
+      "Name": "Feedback",
+      "_URL": "https://www.surveymonkey.com/r/COVID19CAGOV"
+    },
+    {
+      "Name": "Register to vote",
+      "_URL": "https://registertovote.ca.gov"
+    }
+  ],
+  "Table3": [
+    {
+      "Name": "Hotlines and local info",
+      "_slug": "get-local-information"
+    },
+    {
+      "Name": "Social media sharing",
+      "_slug": "https://toolkit.covid19.ca.gov/"
+    },
+    {
+      "Name": "Safe Schools For All",
+      "_slug": "https://schools.covid19.ca.gov/"
+    },
+    {
+      "Name": "Vaccinate All 58",
+      "_slug": "https://www.vaccinateall58.com/"
+    },
+    {
+      "Name": "Safer At Work",
+      "_slug": "https://saferatwork.covid19.ca.gov/"
+    },
+    {
+      "Name": "CA Notify",
+      "_slug": "https://canotify.ca.gov/"
+    },
+    {
+      "Name": "My Turn",
+      "_slug": "https://myturn.ca.gov/"
+    }
+  ],
+  "Table4": [
+    {
+      "Link Title": "How can I safely open my business?",
+      "URL": "https://covid19.ca.gov/industry-guidance/"
+    },
+    {
+      "Link Title": "Where can I find assistance for my business?",
+      "URL": "https://covid19.ca.gov/business-and-employers/"
+    }
+  ],
+  "Table5": [
+    {
+      "Video Title": "Thank you",
+      "Description": "Thank you for doing everything you can to stop the spread of COVID-19 this holiday season.",
+      "VideoURL": "youtu.be/8S5iiKx5dhc",
+      "VideoID": "8S5iiKx5dhc",
+      "ImageURL": "files.covid19.ca.gov/img/thankyou2.jpg",
+      "ImageALT": "Thank you",
+      "ButtonText": "More video messages",
+      "ButtonURL": "toolkit.covid19.ca.gov"
+    }
+  ],
+  "Table6": [
+    {
+      "schools_may_reopen": "Schools may reopen fully for in-person instruction. Local school officials will decide whether and when that will occur.",
+      "schools_may_not_reopen": "Schools may not reopen fully for in-person instruction until the county has been in the Substantial (red) tier for 5 days. School officials <a href=\"https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Schools-FAQ.aspx\">may decide to conduct in-person instruction</a> for a limited set of students in small cohorts.<br><br>Note on exception: Schools that have already re-opened if the county was in a less restrictive tier do not have to close. However, if a school had not already reopened for in-person instruction, it may not reopen until the county moves back to the Substantial (red) tier for 5 consecutive days.",
+      "schools_info": "See <a href=\"https://schools.covid19.ca.gov/\">CA Safe Schools for All hub</a>, <a href=\"https://www.cdph.ca.gov/Programs/CID/DCDC/CDPH%20Document%20Library/COVID-19/Consolidated_Schools_Guidance.pdf\">schools guidance</a>, and <a href=\"https://files.covid19.ca.gov/pdf/guidance-schools-cohort-FAQ.pdf\">cohorting FAQs</a>."
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "Table1": [
+    {
+      "_id": "california_for_all",
+      "text": "California para sa Lahat"
+    },
+    {
+      "_id": "your_actions_save_lives",
+      "text": "Nakakasagip ng Buhay ang Iyong Mga Pagkilos"
+    },
+    {
+      "_id": "search",
+      "text": "Maghanap"
+    },
+    {
+      "_id": "search_this_site",
+      "text": "Maghanap sa site na ito"
+    },
+    {
+      "_id": "submit_search",
+      "text": "Isumite ang Paghahanap"
+    },
+    {
+      "_id": "language",
+      "text": "Wika"
+    },
+    {
+      "_id": "select_language",
+      "text": "Pumili ng wika"
+    },
+    {
+      "_id": "more",
+      "text": "Higit pa …"
+    },
+    {
+      "_id": "menu",
+      "text": "Menu"
+    },
+    {
+      "_id": "menu_close",
+      "text": "Isara"
+    },
+    {
+      "_id": "what_are_you_looking_for",
+      "text": "Ano ang hinahanap mo?"
+    },
+    {
+      "_id": "is_this_page_useful",
+      "text": "Nakita mo ba ang hinahanap mo?"
+    },
+    {
+      "_id": "answer_yes",
+      "text": "Oo"
+    },
+    {
+      "_id": "answer_no",
+      "text": "Hindi"
+    },
+    {
+      "_id": "additional_comments",
+      "text": "Ano ang naging problema?"
+    },
+    {
+      "_id": "good_what_were_you_looking_for",
+      "text": "Mahusay! Ano ang hinahanap mo ngayong araw?"
+    },
+    {
+      "_id": "this_field_required",
+      "text": "Kinakailangan ang field na ito"
+    },
+    {
+      "_id": "submit",
+      "text": "Isumite"
+    },
+    {
+      "_id": "thank_you_for_your_comments",
+      "text": "Mabuti naman!"
+    },
+    {
+      "_id": "thank_you_for_your_feedback",
+      "text": "Salamat sa iyong feedback!"
+    },
+    {
+      "_id": "home",
+      "text": "Home"
+    },
+    {
+      "_id": "official_ca_website",
+      "text": "Opisyal na Website ng Pamahalaan ng Estado ng California"
+    },
+    {
+      "_id": "last_updated",
+      "text": "Huling na-update"
+    },
+    {
+      "_id": "hotline_label",
+      "text": "Hotline para sa COVID-19"
+    },
+    {
+      "_id": "hotline_hours",
+      "text": "M-F 8AM-8PM, Sa-Su 8AM-5PM"
+    },
+    {
+      "_id": "character_limit",
+      "text": "Naabot mo na ang iyong limitasyon sa character."
+    },
+    {
+      "_id": "anything_to_add",
+      "text": "Kung may idaragdag ka pa,"
+    },
+    {
+      "_id": "positive_survey_url",
+      "text": "https://ethn.io/85017"
+    },
+    {
+      "_id": "take_the_survey",
+      "text": "sagutan ang survey"
+    },
+    {
+      "_id": "any_other_feedback",
+      "text": "Kung may iba ka pang feedback tungkol sa website na ito,"
+    },
+    {
+      "_id": "negative_survey_url",
+      "text": "https://ethn.io/77745"
+    },
+    {
+      "_id": "take_our_survey",
+      "text": "sagutan ang aming survey"
+    },
+    {
+      "_id": "latest_news_title",
+      "text": "Balita mula sa Tanggapan ng Gobernador"
+    },
+    {
+      "_id": "var_latest_news",
+      "text": "Mula sa Tanggapan ng Gobernador"
+    },
+    {
+      "_id": "var_view_more_news",
+      "text": "Tumingin ng higit pang balita"
+    },
+    {
+      "_id": "var_stats_header",
+      "text": "Pagsubaybay sa COVID-19"
+    },
+    {
+      "_id": "var_county_map",
+      "text": "County"
+    },
+    {
+      "_id": "var_state_summary",
+      "text": "Dashboard ng estado"
+    },
+    {
+      "_id": "var_update_text",
+      "text": "Sa California, Na-update noong [UpdatedDate] nang may data mula [DataDate]"
+    },
+    {
+      "_id": "var_hero_title",
+      "text": "Nakakasagip ng buhay ang iyong mga pagkilos"
+    },
+    {
+      "_id": "var_hero_p1",
+      "text": "Tingnan kung ano ang nakabukas sa iyong county"
+    },
+    {
+      "_id": "var_hero_p2",
+      "text": "Magsuot ng mask, hugasan ang iyong mga kamay, at patuloy na dumistansya sa iba."
+    },
+    {
+      "_id": "var_hero_alert_social",
+      "text": "Tingnan ang Mga Update ng Gobernador"
+    },
+    {
+      "_id": "var_people_want_to_know_title",
+      "text": "Ang gustong malaman ng mga tao"
+    },
+    {
+      "_id": "var_go_to_top_label",
+      "text": "Itaas"
+    },
+    {
+      "_id": "var_go_to_top_duration",
+      "text": "7000"
+    }
+  ],
+  "Table2": [
+    {
+      "Name": "CA.gov",
+      "_URL": "https://www.ca.gov"
+    },
+    {
+      "Name": "Departamento ng Pampublikong Kalusugan",
+      "_URL": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx"
+    },
+    {
+      "Name": "Newsroom ng Gobernador",
+      "_URL": "https://www.gov.ca.gov/newsroom/"
+    },
+    {
+      "Name": "Accessibility",
+      "_URL": "https://www.ca.gov/accessibility/"
+    },
+    {
+      "Name": "Patakaran sa Privacy",
+      "_URL": "https://www.ca.gov/privacy-policy/"
+    },
+    {
+      "Name": "Feedback",
+      "_URL": "https://www.surveymonkey.com/r/COVID19CAGOV"
+    },
+    {
+      "Name": "Magparehistro para makaboto",
+      "_URL": "https://registertovote.ca.gov"
+    }
+  ],
+  "Table3": [
+    {
+      "Name": "Mga hotline at lokal na impormasyon",
+      "_slug": "get-local-information"
+    },
+    {
+      "Name": "Pagbabahagi sa social media",
+      "_slug": "https://toolkit.covid19.ca.gov/"
+    },
+    {
+      "Name": "Mga Ligtas na Paaralan para sa Lahat",
+      "_slug": "https://schools.covid19.ca.gov/"
+    },
+    {
+      "Name": "Bakunahan ang Lahat ng 58",
+      "_slug": "https://www.vaccinateall58.com/"
+    },
+    {
+      "Name": "Mas Ligtas sa Trabaho",
+      "_slug": "https://saferatwork.covid19.ca.gov/"
+    },
+    {
+      "Name": "CA Notify",
+      "_slug": "https://canotify.ca.gov/"
+    },
+    {
+      "Name": "My Turn",
+      "_slug": "https://myturn.ca.gov/"
+    }
+  ],
+  "Table4": [
+    {
+      "Link Title": "Paano ko ligtas na mabubuksan ang aking negosyo?",
+      "URL": "https://covid19.ca.gov/industry-guidance/"
+    },
+    {
+      "Link Title": "Saan ako makakahanap ng tulong para sa aking negosyo?",
+      "URL": "https://covid19.ca.gov/business-and-employers/"
+    }
+  ],
+  "Table5": [
+    {
+      "Video Title": "Salamat",
+      "Description": "Salamat sa paggawa ng lahat ng iyong makakaya para mapigilan ang pagkalat ng COVID-19 ngayong holiday.",
+      "VideoURL": "youtu.be/8S5iiKx5dhc",
+      "VideoID": "8S5iiKx5dhc",
+      "ImageURL": "files.covid19.ca.gov/img/thankyou2.jpg",
+      "ImageALT": "Salamat",
+      "ButtonText": "Higit pang video message",
+      "ButtonURL": "toolkit.covid19.ca.gov"
+    }
+  ],
+  "Table6": [
+    {
+      "schools_may_reopen": "Puwedeng ganap na muling magbukas ang mga paaralan para sa personal na pagtuturo. Ang mga lokal na opisyal ng paaralan ang magpapasya kung kailan iyon mangyayari.",
+      "schools_may_not_reopen": "Hindi puwedeng ganap na muling magbukas ang mga paaralan para sa personal na pagtuturo hangga't wala pang 5 araw na nasa (pulang) tier na Marami ang kanilang county. <a href=\"https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Schools-FAQ.aspx\">Puwedeng magpasya ang mga opisyal ng paaralan na magsagawa ng personal na pagtuturo</a> para sa limitadong hanay ng mga mag-aaral na nasa maliliit na cohort.<br><br>Paalala sa pagbubukod: Hindi kailangang magsara ng mga paaralang muli nang nakapagbukas kung nasa hindi masyadong mahigpit na tier ang county. Gayunpaman, kung hindi pa muling nakakapagbukas ang isang paaralan para sa personal na pagtuturo, hindi ito puwedeng muling magbukas hangga't hindi bumabalik ang county sa (pulang) tier na Marami sa loob ng 5 magkakasunod na araw.",
+      "schools_info": "Tingnan ang <a href=\"https://schools.covid19.ca.gov/\">Hub ng CA na Mga Ligtas na Paaralan para sa Lahat</a>, <a href=\"https://www.cdph.ca.gov/Programs/CID/DCDC/CDPH%20Document%20Library/COVID-19/Consolidated_Schools_Guidance.pdf\">gabay sa mga paaralan</a>, at <a href=\"https://files.covid19.ca.gov/pdf/guidance-schools-cohort-FAQ.pdf\">FAQ tungkol sa paggawa ng mga cohort</a>."
+    }
+  ]
+}

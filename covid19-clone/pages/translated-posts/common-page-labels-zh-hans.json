@@ -1,0 +1,277 @@
+{
+  "Table1": [
+    {
+      "_id": "california_for_all",
+      "text": "全民加州"
+    },
+    {
+      "_id": "your_actions_save_lives",
+      "text": "您的行动可拯救生命"
+    },
+    {
+      "_id": "search",
+      "text": "搜索"
+    },
+    {
+      "_id": "search_this_site",
+      "text": "站内搜索"
+    },
+    {
+      "_id": "submit_search",
+      "text": "提交搜索"
+    },
+    {
+      "_id": "language",
+      "text": "语言"
+    },
+    {
+      "_id": "select_language",
+      "text": "选择语言"
+    },
+    {
+      "_id": "more",
+      "text": "更多…"
+    },
+    {
+      "_id": "menu",
+      "text": "菜单"
+    },
+    {
+      "_id": "menu_close",
+      "text": "关闭"
+    },
+    {
+      "_id": "what_are_you_looking_for",
+      "text": "您在查找什么？"
+    },
+    {
+      "_id": "is_this_page_useful",
+      "text": "您是否找到您寻找的东西？"
+    },
+    {
+      "_id": "answer_yes",
+      "text": "是"
+    },
+    {
+      "_id": "answer_no",
+      "text": "否"
+    },
+    {
+      "_id": "additional_comments",
+      "text": "有什么问题？"
+    },
+    {
+      "_id": "good_what_were_you_looking_for",
+      "text": "太棒了！您今天在找什么？"
+    },
+    {
+      "_id": "this_field_required",
+      "text": "此栏必填"
+    },
+    {
+      "_id": "submit",
+      "text": "提交"
+    },
+    {
+      "_id": "thank_you_for_your_comments",
+      "text": "太好了！"
+    },
+    {
+      "_id": "thank_you_for_your_feedback",
+      "text": "感谢您提供反馈！"
+    },
+    {
+      "_id": "home",
+      "text": "主页"
+    },
+    {
+      "_id": "official_ca_website",
+      "text": "加州政府官方网站"
+    },
+    {
+      "_id": "last_updated",
+      "text": "最后更新时间"
+    },
+    {
+      "_id": "hotline_label",
+      "text": "COVID-19热线"
+    },
+    {
+      "_id": "hotline_hours",
+      "text": "周一至周五，上午8点至晚上8点，周六至周日，上午8点至下午5点"
+    },
+    {
+      "_id": "character_limit",
+      "text": "您已经达到您的字符限制。"
+    },
+    {
+      "_id": "anything_to_add",
+      "text": "如果您有需要添加的任何内容，"
+    },
+    {
+      "_id": "positive_survey_url",
+      "text": "https://ethn.io/85017"
+    },
+    {
+      "_id": "take_the_survey",
+      "text": "填写问卷调查"
+    },
+    {
+      "_id": "any_other_feedback",
+      "text": "如果您对于此网站有任何反馈，"
+    },
+    {
+      "_id": "negative_survey_url",
+      "text": "https://ethn.io/77745"
+    },
+    {
+      "_id": "take_our_survey",
+      "text": "填写我们的问卷调查"
+    },
+    {
+      "_id": "latest_news_title",
+      "text": "来自州长办公室的新闻"
+    },
+    {
+      "_id": "var_latest_news",
+      "text": "来自州长办公室"
+    },
+    {
+      "_id": "var_view_more_news",
+      "text": "查看更多新闻"
+    },
+    {
+      "_id": "var_stats_header",
+      "text": "跟踪COVID-19"
+    },
+    {
+      "_id": "var_county_map",
+      "text": "县"
+    },
+    {
+      "_id": "var_state_summary",
+      "text": "县状态面板"
+    },
+    {
+      "_id": "var_update_text",
+      "text": "在加州，从[DataDate]更新到[UpdatedDate]的数据"
+    },
+    {
+      "_id": "var_hero_title",
+      "text": "您的行动可拯救生命"
+    },
+    {
+      "_id": "var_hero_p1",
+      "text": "查看您所在的县开放了哪些行业"
+    },
+    {
+      "_id": "var_hero_p2",
+      "text": "佩戴口罩、清洗双手并与他人保持距离。"
+    },
+    {
+      "_id": "var_hero_alert_social",
+      "text": "查看州长的更新"
+    },
+    {
+      "_id": "var_people_want_to_know_title",
+      "text": "民众想要了解的信息"
+    },
+    {
+      "_id": "var_go_to_top_label",
+      "text": "Top"
+    },
+    {
+      "_id": "var_go_to_top_duration",
+      "text": "7000"
+    }
+  ],
+  "Table2": [
+    {
+      "Name": "CA.gov",
+      "_URL": "https://www.ca.gov"
+    },
+    {
+      "Name": "公共卫生局",
+      "_URL": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx"
+    },
+    {
+      "Name": "州长编辑部",
+      "_URL": "https://www.gov.ca.gov/newsroom/"
+    },
+    {
+      "Name": "可访问性",
+      "_URL": "https://www.ca.gov/accessibility/"
+    },
+    {
+      "Name": "隐私政策",
+      "_URL": "https://www.ca.gov/privacy-policy/"
+    },
+    {
+      "Name": "反馈",
+      "_URL": "https://www.surveymonkey.com/r/COVID19CAGOV"
+    },
+    {
+      "Name": "登记投票",
+      "_URL": "https://registertovote.ca.gov"
+    }
+  ],
+  "Table3": [
+    {
+      "Name": "热线及地方信息",
+      "_slug": "get-local-information"
+    },
+    {
+      "Name": "社交媒体分享",
+      "_slug": "https://toolkit.covid19.ca.gov/"
+    },
+    {
+      "Name": "全民安全校园中心",
+      "_slug": "https://schools.covid19.ca.gov/"
+    },
+    {
+      "Name": "在全州58个县接种疫苗",
+      "_slug": "https://www.vaccinateall58.com/"
+    },
+    {
+      "Name": "更安全的工作环境",
+      "_slug": "https://saferatwork.covid19.ca.gov/"
+    },
+    {
+      "Name": "CA Notify",
+      "_slug": "https://canotify.ca.gov/"
+    },
+    {
+      "Name": "My Turn",
+      "_slug": "https://myturn.ca.gov/"
+    }
+  ],
+  "Table4": [
+    {
+      "Link Title": "我如何才能安全地开放我的商业？",
+      "URL": "https://covid19.ca.gov/industry-guidance/"
+    },
+    {
+      "Link Title": "我可以在哪里为我的商业寻求援助？",
+      "URL": "https://covid19.ca.gov/business-and-employers/"
+    }
+  ],
+  "Table5": [
+    {
+      "Video Title": "感谢您",
+      "Description": "感谢您在此节日季为阻止COVID-19传播所做的一切努力。",
+      "VideoURL": "youtu.be/8S5iiKx5dhc",
+      "VideoID": "8S5iiKx5dhc",
+      "ImageURL": "files.covid19.ca.gov/img/thankyou2.jpg",
+      "ImageALT": "感谢您",
+      "ButtonText": "更多视频讯息",
+      "ButtonURL": "toolkit.covid19.ca.gov"
+    }
+  ],
+  "Table6": [
+    {
+      "schools_may_reopen": "学校可能重新完全开放面授教学。当地的学校官员将决定是否以及何时重新开放。",
+      "schools_may_not_reopen": "当学校所在的县处于重度（红色）等级5天时间后，其才可能重新完全开放面授教学。学校官员<a href=\"https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Schools-FAQ.aspx\">可能决定对一小部分学生以群组的方式进行面授教学。</a><br><br>例外情况注意：如果所在县处于限制较小的等级，已经重新开放的学校则不必关闭。但是，如果学校尚未重新开放面授教学，则在该县连续5天回到严重（红色）等级之前，它可能不会重新开放。",
+      "schools_info": "查看<a href=\"https://schools.covid19.ca.gov/\">加州民安全校园中心</a>、<a href=\"https://www.cdph.ca.gov/Programs/CID/DCDC/CDPH%20Document%20Library/COVID-19/Consolidated_Schools_Guidance.pdf\">学校指引</a>以及<a href=\"https://files.covid19.ca.gov/pdf/guidance-schools-cohort-FAQ.pdf\">群组常见问题解答</a>。"
+    }
+  ]
+}

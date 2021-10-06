@@ -1,0 +1,38 @@
+{
+  "Table1": [
+    {
+      "text": "본인 카운티 내 운영 개시 업계?",
+      "_url": "safer-economy/"
+    },
+    {
+      "text": "검사 제공 장소?",
+      "_url": "testing-and-treatment/"
+    },
+    {
+      "text": "주의 관찰 목록 내 카운티 확인?",
+      "_url": "roadmap-counties/"
+    },
+    {
+      "text": "해당 증상 및 위험?",
+      "_url": "symptoms-and-risks/"
+    }
+  ],
+  "Table2": [
+    {
+      "text": "안전한 사업체 운영 재개 방법?",
+      "_url": "industry-guidance/"
+    },
+    {
+      "text": "학교 수업 재개 방법?",
+      "_url": "education/"
+    },
+    {
+      "text": "보육 시설 찾기?",
+      "_url": "childcare/"
+    },
+    {
+      "text": "필수 마스크 착용자?",
+      "_url": "masks-and-ppe/"
+    }
+  ]
+}

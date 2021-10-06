@@ -1,0 +1,38 @@
+{
+  "Table1": [
+    {
+      "text": "Ano'ng nakabukas sa aking county?",
+      "_url": "safer-economy/"
+    },
+    {
+      "text": "Saan ako puwedeng magpasuri?",
+      "_url": "testing-and-treatment/"
+    },
+    {
+      "text": "Nasa listahan sa pagsubaybay ba ang county ko?",
+      "_url": "roadmap-counties/"
+    },
+    {
+      "text": "Ano ang mga sintomas at panganib?",
+      "_url": "symptoms-and-risks/"
+    }
+  ],
+  "Table2": [
+    {
+      "text": "Paano ko ligtas na mabubuksan ang aking negosyo?",
+      "_url": "industry-guidance/"
+    },
+    {
+      "text": "Paano muling magbubukas ang mga paaralan?",
+      "_url": "education/"
+    },
+    {
+      "text": "Saan ako makakakita ng childcare?",
+      "_url": "childcare/"
+    },
+    {
+      "text": "Sino ang dapat magsuot ng mask?",
+      "_url": "masks-and-ppe/"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Table1": [
+    {
+      "text": "¿Qué está abierto en mi condado?",
+      "_url": "safer-economy/"
+    },
+    {
+      "text": "¿Dónde puedo obtener una prueba?",
+      "_url": "testing-and-treatment/"
+    },
+    {
+      "text": "¿Está mi condado en la lista de vigilancia?",
+      "_url": "roadmap-counties/"
+    },
+    {
+      "text": "¿Cuáles son los síntomas y los riesgos?",
+      "_url": "symptoms-and-risks/"
+    }
+  ],
+  "Table2": [
+    {
+      "text": "¿Cómo puedo abrir mi negocio de manera segura?",
+      "_url": "industry-guidance/"
+    },
+    {
+      "text": "¿Cómo están reabriendo las escuelas?",
+      "_url": "education/"
+    },
+    {
+      "text": "¿Dónde puedo encontrar cuidado infantil?",
+      "_url": "childcare/"
+    },
+    {
+      "text": "¿Quién debe usar mascarilla?",
+      "_url": "masks-and-ppe/"
+    }
+  ]
+}

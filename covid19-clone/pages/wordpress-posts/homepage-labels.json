@@ -1,0 +1,124 @@
+{
+  "Table1": [
+    {
+      "_id": "varPast8Weeks",
+      "text": "Past 8 weeks"
+    },
+    {
+      "_id": "varDailyAvg",
+      "text": "daily avg."
+    },
+    {
+      "_id": "varOfPopulationVaccinated",
+      "text": "of population vaccinated"
+    },
+    {
+      "_id": "varTestLabel",
+      "text": "Test on July 1, 12:21pm"
+    },
+    {
+      "_id": "varStatsHeader",
+      "text": "Tracking COVID-19 in CA"
+    },
+    {
+      "_id": "varTotalCases",
+      "text": "Cases"
+    },
+    {
+      "_id": "varTotalDeaths",
+      "text": "Deaths"
+    },
+    {
+      "_id": "varTestsReported",
+      "text": "Tests"
+    },
+    {
+      "_id": "varPercentIncrease",
+      "text": "% increase"
+    },
+    {
+      "_id": "varStateSummary",
+      "text": "State data"
+    },
+    {
+      "_id": "varVaccination",
+      "text": "Vaccination progress"
+    },
+    {
+      "_id": "varHealthEquity",
+      "text": "Health equity"
+    },
+    {
+      "_id": "varHeroTitle",
+      "text": "Your actions save lives"
+    },
+    {
+      "_id": "varHeroP1",
+      "text": "Get vaccinated"
+    },
+    {
+      "_id": "varHeroP2",
+      "text": "Keep California healthy"
+    },
+    {
+      "_id": "varHeroAlertSocial",
+      "text": "Check the Governor’s updates"
+    },
+    {
+      "_id": "varRecentUpdatesTitle",
+      "text": "Recent updates"
+    },
+    {
+      "_id": "varPeopleWantToKnowTitle",
+      "text": "People want to know"
+    },
+    {
+      "_id": "varForBusinesses",
+      "text": "For businesses"
+    },
+    {
+      "_id": "varVaccinesAdministered",
+      "text": "Vaccines Administered"
+    },
+    {
+      "_id": "varTotal",
+      "text": "total"
+    },
+    {
+      "_id": "varToday",
+      "text": "today"
+    },
+    {
+      "_id": "varNewCasesPer100",
+      "text": "new cases per 100K"
+    },
+    {
+      "_id": "varNewDeathsPer100",
+      "text": "new deaths per 100K"
+    },
+    {
+      "_id": "varTestPositivity",
+      "text": "test positivity"
+    },
+    {
+      "_id": "varDataDetailsHere",
+      "text": "Details about this data are available in the"
+    },
+    {
+      "_id": "varStateDashboard",
+      "text": "state dashboard"
+    },
+    {
+      "_id": "varTesting",
+      "text": "testing update"
+    },
+    {
+      "_id": "varUpdateText",
+      "text": "Updated [UpdatedDate] with data from [DataDate]"
+    },
+    {
+      "_id": "varHeroImageAlt",
+      "text": "Three young women enjoy a sunny walk on a California beach."
+    }
+  ]
+}

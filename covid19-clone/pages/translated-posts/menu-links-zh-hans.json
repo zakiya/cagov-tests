@@ -1,0 +1,162 @@
+{
+  "Table1": [
+    {
+      "_section_index": "1",
+      "label": "日常生活中的安全"
+    },
+    {
+      "_section_index": "2",
+      "label": "抗击COVID-19"
+    },
+    {
+      "_section_index": "3",
+      "label": "加州的应对措施"
+    },
+    {
+      "_section_index": "4",
+      "label": "服务"
+    }
+  ],
+  "Table2": [
+    {
+      "_section_index": "1",
+      "label": "现行安全措施",
+      "_slug_or_url": "safely-reopening"
+    },
+    {
+      "_section_index": "1",
+      "label": "CA Notify",
+      "_slug_or_url": "https://canotify.ca.gov/"
+    },
+    {
+      "_section_index": "1",
+      "label": "口罩",
+      "_slug_or_url": "masks-and-ppe"
+    },
+    {
+      "_section_index": "1",
+      "label": "大型活动",
+      "_slug_or_url": "mega-events"
+    },
+    {
+      "_section_index": "1",
+      "label": "旅游",
+      "_slug_or_url": "travel"
+    },
+    {
+      "_section_index": "2",
+      "label": "疫苗",
+      "_slug_or_url": "vaccines"
+    },
+    {
+      "_section_index": "2",
+      "label": "接种疫苗以获奖金",
+      "_slug_or_url": "vax-for-the-win"
+    },
+    {
+      "_section_index": "2",
+      "label": "检测",
+      "_slug_or_url": "get-tested"
+    },
+    {
+      "_section_index": "2",
+      "label": "在加州追踪COVID-19",
+      "_slug_or_url": "state-dashboard"
+    },
+    {
+      "_section_index": "2",
+      "label": "疫苗接种进度数据",
+      "_slug_or_url": "vaccination-progress-data"
+    },
+    {
+      "_section_index": "2",
+      "label": "接触者追踪",
+      "_slug_or_url": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19-Contact-Tracing.aspx"
+    },
+    {
+      "_section_index": "2",
+      "label": "症状和风险",
+      "_slug_or_url": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Symptoms-Risks.aspx"
+    },
+    {
+      "_section_index": "3",
+      "label": "加州医疗队 (California Health Corps)",
+      "_slug_or_url": "https://emsa.ca.gov/ca-health-corps/"
+    },
+    {
+      "_section_index": "3",
+      "label": "合约",
+      "_slug_or_url": "contracts"
+    },
+    {
+      "_section_index": "3",
+      "label": "数据与工具",
+      "_slug_or_url": "data-and-tools"
+    },
+    {
+      "_section_index": "3",
+      "label": "反对歧视",
+      "_slug_or_url": "discrimination"
+    },
+    {
+      "_section_index": "3",
+      "label": "健康公平与COVID‑19",
+      "_slug_or_url": "equity"
+    },
+    {
+      "_section_index": "4",
+      "label": "教育与托儿",
+      "_slug_or_url": "education"
+    },
+    {
+      "_section_index": "4",
+      "label": "远程教学",
+      "_slug_or_url": "distance-learning"
+    },
+    {
+      "_section_index": "4",
+      "label": "情感支援",
+      "_slug_or_url": "resources-for-emotional-support-and-well-being"
+    },
+    {
+      "_section_index": "4",
+      "label": "工作者及商业",
+      "_slug_or_url": "workers-and-businesses"
+    },
+    {
+      "_section_index": "4",
+      "label": "财务援助",
+      "_slug_or_url": "get-financial-help"
+    },
+    {
+      "_section_index": "4",
+      "label": "食品资源",
+      "_slug_or_url": "food-resources"
+    },
+    {
+      "_section_index": "4",
+      "label": "住房和房租",
+      "_slug_or_url": "housing-and-homelessness"
+    },
+    {
+      "_section_index": "4",
+      "label": "为农业劳工提供的援助",
+      "_slug_or_url": "housing-for-agricultural-workers"
+    },
+    {
+      "_section_index": "4",
+      "label": "针对移民的帮助",
+      "_slug_or_url": "https://immigrantguide.ca.gov/en/covid19/"
+    },
+    {
+      "_section_index": "4",
+      "label": "热线及地方信息",
+      "_slug_or_url": "get-local-information"
+    },
+    {
+      "_section_index": "4",
+      "label": "为商业提供的援助",
+      "_slug_or_url": "business-and-employers"
+    }
+  ]
+}

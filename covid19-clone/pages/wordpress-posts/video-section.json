@@ -1,0 +1,37 @@
+{
+  "Table1": [
+    {
+      "Active": "X",
+      "Video Title": "Keep California moving. Get vaccinated.",
+      "Description": "",
+      "VideoURL": "https://youtu.be/fP9SmTAmJjw",
+      "VideoID": "fP9SmTAmJjw",
+      "ImageURL": "https://files.covid19.ca.gov/img/keep-california-moving.jpg",
+      "ImageALT": "Keep California moving",
+      "ButtonText": "Visit My Turn to schedule your vaccination",
+      "ButtonURL": "https://myturn.ca.gov"
+    },
+    {
+      "Active": "",
+      "Video Title": "Live October 1 at 10:00 AM: Press conference with the Governor",
+      "Description": "Gov. Gavin Newsom to announce school safety efforts",
+      "VideoURL": "https://youtu.be/iYZ4P5nE_i0",
+      "VideoID": "iYZ4P5nE_i0",
+      "ImageURL": "https://files.covid19.ca.gov/img/govpresser.jpg",
+      "ImageALT": "Press conference with CA Gov. Gavin Newsom",
+      "ButtonText": "See past press conferences",
+      "ButtonURL": "https://www.youtube.com/playlist?list=PLS1sIrqLVSo9jz15dkLRKxOMUR2-MtoH7"
+    },
+    {
+      "Active": "",
+      "Video Title": "Live February 2 at 12:00 PM: Press conference with Dr. Mark Ghaly",
+      "Description": "CHHS Secretary Dr. Mark Ghaly addresses California’s response to COVID-19.",
+      "VideoURL": "https://youtu.be/jXtVZSi9qeM",
+      "VideoID": "jXtVZSi9qeM",
+      "ImageURL": "https://files.covid19.ca.gov/img/drghalypresser.jpg",
+      "ImageALT": "Press conference with CA CHHS Secretary Dr. Mark Ghaly",
+      "ButtonText": "See past press conferences",
+      "ButtonURL": "https://www.youtube.com/playlist?list=PLZqpl41f-8c_DHaRyq9LCD5vHqT-CMkgA"
+    }
+  ]
+}

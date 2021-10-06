@@ -1,0 +1,124 @@
+{
+  "Table1": [
+    {
+      "_id": "varPast8Weeks",
+      "text": "Nakaraang 8 linggo"
+    },
+    {
+      "_id": "varDailyAvg",
+      "text": "pang-araw-araw na average"
+    },
+    {
+      "_id": "varOfPopulationVaccinated",
+      "text": "ng nabakunahan nang populasyon"
+    },
+    {
+      "_id": "varTestLabel",
+      "text": "Pagsusuri noong Hulyo 1, 12:21pm"
+    },
+    {
+      "_id": "varStatsHeader",
+      "text": "Pagsubaybay sa COVID-19 sa CA"
+    },
+    {
+      "_id": "varTotalCases",
+      "text": "Mga Kaso"
+    },
+    {
+      "_id": "varTotalDeaths",
+      "text": "Mga Pagkamatay"
+    },
+    {
+      "_id": "varTestsReported",
+      "text": "Mga Pagsusuri"
+    },
+    {
+      "_id": "varPercentIncrease",
+      "text": "% pagtaas"
+    },
+    {
+      "_id": "varStateSummary",
+      "text": "Data ng estado"
+    },
+    {
+      "_id": "varVaccination",
+      "text": "Pag-usad sa pagbabakuna"
+    },
+    {
+      "_id": "varHealthEquity",
+      "text": "Pagkakapantay-pantay sa kalusugan"
+    },
+    {
+      "_id": "varHeroTitle",
+      "text": "Nakakasagip ng buhay ang iyong mga pagkilos"
+    },
+    {
+      "_id": "varHeroP1",
+      "text": "Magpabakuna"
+    },
+    {
+      "_id": "varHeroP2",
+      "text": "Panatilihing malusog ang California"
+    },
+    {
+      "_id": "varHeroAlertSocial",
+      "text": "Tingnan ang mga update ng Gobernador"
+    },
+    {
+      "_id": "varRecentUpdatesTitle",
+      "text": "Mga kamakailang update"
+    },
+    {
+      "_id": "varPeopleWantToKnowTitle",
+      "text": "Ang gustong malaman ng mga tao"
+    },
+    {
+      "_id": "varForBusinesses",
+      "text": "Para sa mga negosyo"
+    },
+    {
+      "_id": "varVaccinesAdministered",
+      "text": "Mga Naibigay na Bakuna"
+    },
+    {
+      "_id": "varTotal",
+      "text": "kabuuan"
+    },
+    {
+      "_id": "varToday",
+      "text": "ngayong araw"
+    },
+    {
+      "_id": "varNewCasesPer100",
+      "text": "mga bagong kaso sa bawat 100K"
+    },
+    {
+      "_id": "varNewDeathsPer100",
+      "text": "mga bagong pagkamatay sa bawat 100K"
+    },
+    {
+      "_id": "varTestPositivity",
+      "text": "pagpopositibo sa pagsusuri"
+    },
+    {
+      "_id": "varDataDetailsHere",
+      "text": "Available ang mga detalye tungkol sa data na ito sa"
+    },
+    {
+      "_id": "varStateDashboard",
+      "text": "dashboard ng estado"
+    },
+    {
+      "_id": "varTesting",
+      "text": "update sa pagsusuri"
+    },
+    {
+      "_id": "varUpdateText",
+      "text": "Na-update noong [UpdatedDate] nang may data mula [DataDate]"
+    },
+    {
+      "_id": "varHeroImageAlt",
+      "text": "Tatlong babaeng naglalakad-lakad sa isang beach sa California habang mataas ang sikat ng araw."
+    }
+  ]
+}

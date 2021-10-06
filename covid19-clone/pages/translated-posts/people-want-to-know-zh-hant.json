@@ -1,0 +1,38 @@
+{
+  "Table1": [
+    {
+      "text": "我所在的縣開放了哪些行業？",
+      "_url": "safer-economy/"
+    },
+    {
+      "text": "可以在哪裡進行檢測？",
+      "_url": "testing-and-treatment/"
+    },
+    {
+      "text": "我所在的縣是否列於監測名單中？",
+      "_url": "roadmap-counties/"
+    },
+    {
+      "text": "有哪些症狀和風險？",
+      "_url": "symptoms-and-risks/"
+    }
+  ],
+  "Table2": [
+    {
+      "text": "我的企業如何安全地開放？",
+      "_url": "industry-guidance/"
+    },
+    {
+      "text": "學校如何重新開放？",
+      "_url": "education/"
+    },
+    {
+      "text": "在哪裡可以找到托兒服務？",
+      "_url": "childcare/"
+    },
+    {
+      "text": "哪些人應該佩戴口罩？",
+      "_url": "masks-and-ppe/"
+    }
+  ]
+}

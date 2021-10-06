@@ -1,0 +1,28 @@
+<script type="text/javascript">	
+  {	
+    function googleTranslateElementInit() {	
+      new google.translate.TranslateElement({	
+          pageLanguage: '{{(tags | langRecord).hreflang}}',
+          layout: google.translate.TranslateElement.InlineLayout.VERTICAL	
+         },	
+        'google_translate_element'	
+      );	
+    }	
+    function addGoogleTranslateCode() {	
+      const storagekey = 'google_translate_page_used';	
+  	
+      {%- pagesection page, "translate" %}
+      sessionStorage.setItem(storagekey, new Date().getTime());	
+      {% endpagesection -%}
+
+      if (sessionStorage.getItem(storagekey)) {	
+        const JS= document.createElement('script');	
+        JS.type='text/javascript';	
+        JS.defer='defer';	
+        JS.src='//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';	
+        document.body.appendChild(JS);	
+      }	
+    }	
+    addGoogleTranslateCode();	
+  }({});	
+  </script>

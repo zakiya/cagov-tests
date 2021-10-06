@@ -1,0 +1,162 @@
+{
+  "Table1": [
+    {
+      "_section_index": "1",
+      "label": "السلامة والأمان في الحياة اليومية"
+    },
+    {
+      "_section_index": "2",
+      "label": "محاربة كوفيد-19"
+    },
+    {
+      "_section_index": "3",
+      "label": "تصدي ولاية كاليفورنيا"
+    },
+    {
+      "_section_index": "4",
+      "label": "الخدمات"
+    }
+  ],
+  "Table2": [
+    {
+      "_section_index": "1",
+      "label": "تدابير السلامة الحالية",
+      "_slug_or_url": "safely-reopening"
+    },
+    {
+      "_section_index": "1",
+      "label": "تطبيق إخطار كاليفورنيا (CA Notify)",
+      "_slug_or_url": "https://canotify.ca.gov/"
+    },
+    {
+      "_section_index": "1",
+      "label": "أقنعة الوجه",
+      "_slug_or_url": "masks-and-ppe"
+    },
+    {
+      "_section_index": "1",
+      "label": "الفعاليات الضخمة",
+      "_slug_or_url": "mega-events"
+    },
+    {
+      "_section_index": "1",
+      "label": "السفر",
+      "_slug_or_url": "travel"
+    },
+    {
+      "_section_index": "2",
+      "label": "اللقاحات",
+      "_slug_or_url": "vaccines"
+    },
+    {
+      "_section_index": "2",
+      "label": "Vax for the Win",
+      "_slug_or_url": "vax-for-the-win"
+    },
+    {
+      "_section_index": "2",
+      "label": "الفحوصات",
+      "_slug_or_url": "get-tested"
+    },
+    {
+      "_section_index": "2",
+      "label": "تعقب مصابي كوفيد-19 في كاليفورنيا",
+      "_slug_or_url": "state-dashboard"
+    },
+    {
+      "_section_index": "2",
+      "label": "بيانات تقدم التطعيم",
+      "_slug_or_url": "vaccination-progress-data"
+    },
+    {
+      "_section_index": "2",
+      "label": "تتبع المخالطين",
+      "_slug_or_url": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19-Contact-Tracing.aspx"
+    },
+    {
+      "_section_index": "2",
+      "label": "أعراض الفيروس ومخاطر التعرض له",
+      "_slug_or_url": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Symptoms-Risks.aspx"
+    },
+    {
+      "_section_index": "3",
+      "label": "الطواقم الصحية في كاليفورنيا",
+      "_slug_or_url": "https://emsa.ca.gov/ca-health-corps/"
+    },
+    {
+      "_section_index": "3",
+      "label": "العقود",
+      "_slug_or_url": "contracts"
+    },
+    {
+      "_section_index": "3",
+      "label": "البيانات والأدوات",
+      "_slug_or_url": "data-and-tools"
+    },
+    {
+      "_section_index": "3",
+      "label": "مكافحة التمييز",
+      "_slug_or_url": "discrimination"
+    },
+    {
+      "_section_index": "3",
+      "label": "العدالة الصحية وكوفيد‑19",
+      "_slug_or_url": "equity"
+    },
+    {
+      "_section_index": "4",
+      "label": "التعليم ورعاية الأطفال",
+      "_slug_or_url": "education"
+    },
+    {
+      "_section_index": "4",
+      "label": "التعلم عن بعد",
+      "_slug_or_url": "distance-learning"
+    },
+    {
+      "_section_index": "4",
+      "label": "الدعم العاطفي",
+      "_slug_or_url": "resources-for-emotional-support-and-well-being"
+    },
+    {
+      "_section_index": "4",
+      "label": "الشركات والعمال",
+      "_slug_or_url": "workers-and-businesses"
+    },
+    {
+      "_section_index": "4",
+      "label": "المساعدة المالية",
+      "_slug_or_url": "get-financial-help"
+    },
+    {
+      "_section_index": "4",
+      "label": "الموارد الغذائية",
+      "_slug_or_url": "food-resources"
+    },
+    {
+      "_section_index": "4",
+      "label": "الإسكان والإيجار",
+      "_slug_or_url": "housing-and-homelessness"
+    },
+    {
+      "_section_index": "4",
+      "label": "مساعدة العمال الزراعيين",
+      "_slug_or_url": "housing-for-agricultural-workers"
+    },
+    {
+      "_section_index": "4",
+      "label": "مساعدة المهاجرين",
+      "_slug_or_url": "https://immigrantguide.ca.gov/en/covid19/"
+    },
+    {
+      "_section_index": "4",
+      "label": "الخطوط الساخنة والمعلومات المحلية",
+      "_slug_or_url": "get-local-information"
+    },
+    {
+      "_section_index": "4",
+      "label": "المساعدات المقدمة للشركات والأعمال التجارية",
+      "_slug_or_url": "business-and-employers"
+    }
+  ]
+}
