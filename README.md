@@ -1,10 +1,7 @@
-# Backstop
+## covid to netlify
 
-### Set up
-
-```bash
-npm install
-cp example.env .env
-```
-
-- Change environment variables in .env to suit your needs.
+cd covid19-clone
+cp -r ~/Sites/covid19/docs .
+git add docs
+git commit -m "docs 2021-10-16"
+git push
