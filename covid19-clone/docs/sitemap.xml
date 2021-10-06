@@ -182,11 +182,6 @@
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/data-and-tools/</loc>
-        <lastmod>2021-08-11T23:18:54Z</lastmod>
-    </url>
-
-    <url>
         <loc>https://covid19.ca.gov/emergency-broadband/</loc>
         <lastmod>2021-05-18T19:39:51Z</lastmod>
     </url>
@@ -472,11 +467,6 @@
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/equity/</loc>
-        <lastmod>2021-08-25T22:49:23Z</lastmod>
-    </url>
-
-    <url>
         <loc>https://covid19.ca.gov/dream-vacations-terms/</loc>
         <lastmod>2021-09-23T18:06:58Z</lastmod>
     </url>
@@ -494,11 +484,6 @@
     <url>
         <loc>https://covid19.ca.gov/masks-and-ppe/</loc>
         <lastmod>2021-09-23T17:54:39Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/safely-reopening/</loc>
-        <lastmod>2021-09-23T17:45:35Z</lastmod>
     </url>
 
     <url>
@@ -722,41 +707,6 @@
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/ar/vaccination-progress-data/</loc>
-        <lastmod>2021-09-23T20:32:37Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/es/vaccination-progress-data/</loc>
-        <lastmod>2021-09-23T20:32:37Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/vaccination-progress-data/</loc>
-        <lastmod>2021-09-23T20:32:37Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/vaccination-progress-data/</loc>
-        <lastmod>2021-09-23T20:32:37Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vi/vaccination-progress-data/</loc>
-        <lastmod>2021-09-23T20:32:37Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/vaccination-progress-data/</loc>
-        <lastmod>2021-09-23T20:32:37Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/vaccination-progress-data/</loc>
-        <lastmod>2021-09-23T20:32:37Z</lastmod>
-    </url>
-
-    <url>
         <loc>https://covid19.ca.gov/ar/vax-for-the-win/</loc>
         <lastmod>2021-09-23T18:06:50Z</lastmod>
     </url>
@@ -909,11 +859,6 @@
     <url>
         <loc>https://covid19.ca.gov/contracts/</loc>
         <lastmod>2021-09-29T00:01:26Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vaccines/</loc>
-        <lastmod>2021-09-30T16:31:48Z</lastmod>
     </url>
 
     <url>
@@ -1147,13 +1092,68 @@
     </url>
 
     <url>
+        <loc>https://covid19.ca.gov/ar/vaccination-progress-data/</loc>
+        <lastmod>2021-10-05T16:07:41Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/vaccination-progress-data/</loc>
+        <lastmod>2021-10-05T16:07:41Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/vaccination-progress-data/</loc>
+        <lastmod>2021-10-05T16:07:41Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/vaccination-progress-data/</loc>
+        <lastmod>2021-10-05T16:07:41Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/vaccination-progress-data/</loc>
+        <lastmod>2021-10-05T16:07:41Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/vaccination-progress-data/</loc>
+        <lastmod>2021-10-05T16:07:41Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/vaccination-progress-data/</loc>
+        <lastmod>2021-10-05T16:07:41Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/data-and-tools/</loc>
+        <lastmod>2021-10-06T18:15:58Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/equity/</loc>
+        <lastmod>2021-10-06T18:29:54Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/safely-reopening/</loc>
+        <lastmod>2021-10-06T17:52:19Z</lastmod>
+    </url>
+
+    <url>
         <loc>https://covid19.ca.gov/state-dashboard/</loc>
-        <lastmod>2021-10-04T21:59:07Z</lastmod>
+        <lastmod>2021-10-06T18:22:01Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/vaccination-progress-data/</loc>
-        <lastmod>2021-10-05T16:07:41Z</lastmod>
+        <lastmod>2021-10-06T17:07:54Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vaccines/</loc>
+        <lastmod>2021-10-06T00:34:02Z</lastmod>
     </url>
 
 </urlset>
