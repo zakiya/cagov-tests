@@ -4,10 +4,11 @@
   "description": "backstoptests",
   "main": "index.js",
   "scripts": {
-    "covid:init": "SITE=covid backstop init && backstop reference --config=backstop.js",
-    "covid": "SITE=covid backstop test --config=backstop.js",
-    "covid:interactive:init": "SITE=covid TEST_TYPE=interactive backstop reference --config=backstop.js",
-    "covid:interactive": "SITE=covid TEST_TYPE=interactive backstop test --config=backstop.js"
+    "backstop": "backstop init",
+    "covid:ref": "SITE=covid backstop reference --config=backstop.js",
+    "covid:test": "SITE=covid backstop test --config=backstop.js",
+    "covid:interactive:ref": "SITE=covid TEST_TYPE=interactive backstop reference --config=backstop.js",
+    "covid:interactive:test": "SITE=covid TEST_TYPE=interactive backstop test --config=backstop.js"
   },
   "author": "Zakiya Khabir",
   "license": "MIT",
