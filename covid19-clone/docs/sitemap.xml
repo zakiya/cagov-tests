@@ -42,41 +42,6 @@
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/ar/data-and-tools/</loc>
-        <lastmod>2021-08-11T23:18:54Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/es/data-and-tools/</loc>
-        <lastmod>2021-08-11T23:18:54Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/data-and-tools/</loc>
-        <lastmod>2021-08-11T23:18:54Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/data-and-tools/</loc>
-        <lastmod>2021-08-11T23:18:54Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vi/data-and-tools/</loc>
-        <lastmod>2021-08-11T23:18:54Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/data-and-tools/</loc>
-        <lastmod>2021-08-11T23:18:54Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/data-and-tools/</loc>
-        <lastmod>2021-08-11T23:18:54Z</lastmod>
-    </url>
-
-    <url>
         <loc>https://covid19.ca.gov/ar/emergency-broadband/</loc>
         <lastmod>2021-05-04T18:25:20Z</lastmod>
     </url>
@@ -109,41 +74,6 @@
     <url>
         <loc>https://covid19.ca.gov/zh-hant/emergency-broadband/</loc>
         <lastmod>2021-05-04T18:25:20Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ar/equity/</loc>
-        <lastmod>2021-08-25T22:49:23Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/es/equity/</loc>
-        <lastmod>2021-08-25T22:49:23Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/equity/</loc>
-        <lastmod>2021-08-25T22:49:23Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/equity/</loc>
-        <lastmod>2021-08-25T22:49:23Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vi/equity/</loc>
-        <lastmod>2021-08-25T22:49:23Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/equity/</loc>
-        <lastmod>2021-08-25T22:49:23Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/equity/</loc>
-        <lastmod>2021-08-25T22:49:23Z</lastmod>
     </url>
 
     <url>
@@ -637,41 +567,6 @@
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/ar/safely-reopening/</loc>
-        <lastmod>2021-09-23T17:45:35Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/es/safely-reopening/</loc>
-        <lastmod>2021-09-23T17:45:35Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/safely-reopening/</loc>
-        <lastmod>2021-09-23T17:45:35Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/safely-reopening/</loc>
-        <lastmod>2021-09-23T17:45:35Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vi/safely-reopening/</loc>
-        <lastmod>2021-09-23T17:45:35Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/safely-reopening/</loc>
-        <lastmod>2021-09-23T17:45:35Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/safely-reopening/</loc>
-        <lastmod>2021-09-23T17:45:35Z</lastmod>
-    </url>
-
-    <url>
         <loc>https://covid19.ca.gov/ar/travel/</loc>
         <lastmod>2021-09-23T17:55:17Z</lastmod>
     </url>
@@ -862,41 +757,6 @@
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/ar/vaccines/</loc>
-        <lastmod>2021-09-30T16:31:48Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/es/vaccines/</loc>
-        <lastmod>2021-09-30T16:31:48Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/vaccines/</loc>
-        <lastmod>2021-09-30T16:31:48Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/vaccines/</loc>
-        <lastmod>2021-09-30T16:31:48Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vi/vaccines/</loc>
-        <lastmod>2021-09-30T16:31:48Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/vaccines/</loc>
-        <lastmod>2021-09-30T16:31:48Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/vaccines/</loc>
-        <lastmod>2021-09-30T16:31:48Z</lastmod>
-    </url>
-
-    <url>
         <loc>https://covid19.ca.gov/get-financial-help/</loc>
         <lastmod>2021-10-01T19:31:55Z</lastmod>
     </url>
@@ -1017,41 +877,6 @@
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/ar/state-dashboard/</loc>
-        <lastmod>2021-10-04T21:59:07Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/es/state-dashboard/</loc>
-        <lastmod>2021-10-04T21:59:07Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/state-dashboard/</loc>
-        <lastmod>2021-10-04T21:59:07Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/state-dashboard/</loc>
-        <lastmod>2021-10-04T21:59:07Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vi/state-dashboard/</loc>
-        <lastmod>2021-10-04T21:59:07Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/state-dashboard/</loc>
-        <lastmod>2021-10-04T21:59:07Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/state-dashboard/</loc>
-        <lastmod>2021-10-04T21:59:07Z</lastmod>
-    </url>
-
-    <url>
         <loc>https://covid19.ca.gov/ar/workers-and-businesses/</loc>
         <lastmod>2021-10-01T21:26:13Z</lastmod>
     </url>
@@ -1092,6 +917,166 @@
     </url>
 
     <url>
+        <loc>https://covid19.ca.gov/equity/</loc>
+        <lastmod>2021-10-06T20:17:45Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/safely-reopening/</loc>
+        <lastmod>2021-10-06T17:52:19Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/state-dashboard/</loc>
+        <lastmod>2021-10-06T20:57:59Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vaccination-progress-data/</loc>
+        <lastmod>2021-10-06T18:37:15Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/data-and-tools/</loc>
+        <lastmod>2021-08-11T23:18:54Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/data-and-tools/</loc>
+        <lastmod>2021-08-11T23:18:54Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/data-and-tools/</loc>
+        <lastmod>2021-08-11T23:18:54Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/data-and-tools/</loc>
+        <lastmod>2021-08-11T23:18:54Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/data-and-tools/</loc>
+        <lastmod>2021-08-11T23:18:54Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/data-and-tools/</loc>
+        <lastmod>2021-08-11T23:18:54Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/data-and-tools/</loc>
+        <lastmod>2021-08-11T23:18:54Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/equity/</loc>
+        <lastmod>2021-08-25T22:49:23Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/equity/</loc>
+        <lastmod>2021-08-25T22:49:23Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/equity/</loc>
+        <lastmod>2021-08-25T22:49:23Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/equity/</loc>
+        <lastmod>2021-08-25T22:49:23Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/equity/</loc>
+        <lastmod>2021-08-25T22:49:23Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/equity/</loc>
+        <lastmod>2021-08-25T22:49:23Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/equity/</loc>
+        <lastmod>2021-08-25T22:49:23Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/safely-reopening/</loc>
+        <lastmod>2021-09-23T17:45:35Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/safely-reopening/</loc>
+        <lastmod>2021-09-23T17:45:35Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/safely-reopening/</loc>
+        <lastmod>2021-09-23T17:45:35Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/safely-reopening/</loc>
+        <lastmod>2021-09-23T17:45:35Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/safely-reopening/</loc>
+        <lastmod>2021-09-23T17:45:35Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/safely-reopening/</loc>
+        <lastmod>2021-09-23T17:45:35Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/safely-reopening/</loc>
+        <lastmod>2021-09-23T17:45:35Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/state-dashboard/</loc>
+        <lastmod>2021-10-04T21:59:07Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/state-dashboard/</loc>
+        <lastmod>2021-10-04T21:59:07Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/state-dashboard/</loc>
+        <lastmod>2021-10-04T21:59:07Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/state-dashboard/</loc>
+        <lastmod>2021-10-04T21:59:07Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/state-dashboard/</loc>
+        <lastmod>2021-10-04T21:59:07Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/state-dashboard/</loc>
+        <lastmod>2021-10-04T21:59:07Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/state-dashboard/</loc>
+        <lastmod>2021-10-04T21:59:07Z</lastmod>
+    </url>
+
+    <url>
         <loc>https://covid19.ca.gov/ar/vaccination-progress-data/</loc>
         <lastmod>2021-10-05T16:07:41Z</lastmod>
     </url>
@@ -1127,28 +1112,43 @@
     </url>
 
     <url>
+        <loc>https://covid19.ca.gov/ar/vaccines/</loc>
+        <lastmod>2021-09-30T16:31:48Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/vaccines/</loc>
+        <lastmod>2021-09-30T16:31:48Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/vaccines/</loc>
+        <lastmod>2021-09-30T16:31:48Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/vaccines/</loc>
+        <lastmod>2021-09-30T16:31:48Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/vaccines/</loc>
+        <lastmod>2021-09-30T16:31:48Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/vaccines/</loc>
+        <lastmod>2021-09-30T16:31:48Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/vaccines/</loc>
+        <lastmod>2021-09-30T16:31:48Z</lastmod>
+    </url>
+
+    <url>
         <loc>https://covid19.ca.gov/data-and-tools/</loc>
         <lastmod>2021-10-06T18:15:58Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/safely-reopening/</loc>
-        <lastmod>2021-10-06T17:52:19Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/equity/</loc>
-        <lastmod>2021-10-06T20:17:45Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/state-dashboard/</loc>
-        <lastmod>2021-10-06T20:57:59Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vaccination-progress-data/</loc>
-        <lastmod>2021-10-06T18:37:15Z</lastmod>
     </url>
 
     <url>
