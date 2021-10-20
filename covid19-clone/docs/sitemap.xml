@@ -3,117 +3,37 @@
 
     <url>
         <loc>https://covid19.ca.gov/ar/</loc>
-        <lastmod>2021-09-08T21:54:43.083Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/</loc>
-        <lastmod>2021-09-08T21:54:43.084Z</lastmod>
+        <lastmod>2021-10-13T23:28:46.701Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/es/</loc>
-        <lastmod>2021-09-08T21:54:43.084Z</lastmod>
+        <lastmod>2021-10-13T23:28:46.702Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/ko/</loc>
-        <lastmod>2021-09-08T21:54:43.084Z</lastmod>
+        <lastmod>2021-10-13T23:28:46.702Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/tl/</loc>
-        <lastmod>2021-09-08T21:54:43.084Z</lastmod>
+        <lastmod>2021-10-13T23:28:46.702Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/vi/</loc>
-        <lastmod>2021-09-08T21:54:43.084Z</lastmod>
+        <lastmod>2021-10-13T23:28:46.702Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/zh-hans/</loc>
-        <lastmod>2021-09-08T21:54:43.084Z</lastmod>
+        <lastmod>2021-10-13T23:28:46.702Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/zh-hant/</loc>
-        <lastmod>2021-09-08T21:54:43.084Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ar/emergency-broadband/</loc>
-        <lastmod>2021-05-04T18:25:20Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/es/emergency-broadband/</loc>
-        <lastmod>2021-05-04T18:25:20Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/emergency-broadband/</loc>
-        <lastmod>2021-05-04T18:25:20Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/emergency-broadband/</loc>
-        <lastmod>2021-05-04T18:25:20Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vi/emergency-broadband/</loc>
-        <lastmod>2021-05-04T18:25:20Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/emergency-broadband/</loc>
-        <lastmod>2021-05-04T18:25:20Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/emergency-broadband/</loc>
-        <lastmod>2021-05-04T18:25:20Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ar/food-resources/</loc>
-        <lastmod>2021-08-09T15:36:56Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/es/food-resources/</loc>
-        <lastmod>2021-08-09T15:36:56Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/food-resources/</loc>
-        <lastmod>2021-08-09T15:36:56Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/food-resources/</loc>
-        <lastmod>2021-08-09T15:36:56Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vi/food-resources/</loc>
-        <lastmod>2021-08-09T15:36:56Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/food-resources/</loc>
-        <lastmod>2021-08-09T15:36:56Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/food-resources/</loc>
-        <lastmod>2021-08-09T15:36:56Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/emergency-broadband/</loc>
-        <lastmod>2021-05-18T19:39:51Z</lastmod>
+        <lastmod>2021-10-13T23:28:46.703Z</lastmod>
     </url>
 
     <url>
@@ -149,6 +69,41 @@
     <url>
         <loc>https://covid19.ca.gov/zh-hant/discrimination/</loc>
         <lastmod>2021-09-22T19:47:23Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/emergency-broadband/</loc>
+        <lastmod>2021-05-04T18:25:20Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/emergency-broadband/</loc>
+        <lastmod>2021-05-04T18:25:20Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/emergency-broadband/</loc>
+        <lastmod>2021-05-04T18:25:20Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/emergency-broadband/</loc>
+        <lastmod>2021-05-04T18:25:20Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/emergency-broadband/</loc>
+        <lastmod>2021-05-04T18:25:20Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/emergency-broadband/</loc>
+        <lastmod>2021-05-04T18:25:20Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/emergency-broadband/</loc>
+        <lastmod>2021-05-04T18:25:20Z</lastmod>
     </url>
 
     <url>
@@ -367,6 +322,16 @@
     </url>
 
     <url>
+        <loc>https://covid19.ca.gov/dream-vacations-terms/</loc>
+        <lastmod>2021-09-23T18:06:58Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/emergency-broadband/</loc>
+        <lastmod>2021-05-18T19:39:51Z</lastmod>
+    </url>
+
+    <url>
         <loc>https://covid19.ca.gov/essential-workforce/</loc>
         <lastmod>2021-09-22T19:47:09Z</lastmod>
     </url>
@@ -374,6 +339,16 @@
     <url>
         <loc>https://covid19.ca.gov/get-local-information/</loc>
         <lastmod>2021-09-22T19:47:41Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/housing-for-agricultural-workers/</loc>
+        <lastmod>2021-09-23T17:54:22Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/masks-and-ppe/</loc>
+        <lastmod>2021-09-23T17:54:39Z</lastmod>
     </url>
 
     <url>
@@ -397,26 +372,6 @@
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/dream-vacations-terms/</loc>
-        <lastmod>2021-09-23T18:06:58Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/get-tested/</loc>
-        <lastmod>2021-09-23T17:55:01Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/housing-for-agricultural-workers/</loc>
-        <lastmod>2021-09-23T17:54:22Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/masks-and-ppe/</loc>
-        <lastmod>2021-09-23T17:54:39Z</lastmod>
-    </url>
-
-    <url>
         <loc>https://covid19.ca.gov/travel/</loc>
         <lastmod>2021-09-23T17:55:17Z</lastmod>
     </url>
@@ -432,248 +387,8 @@
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/ar/dream-vacations-terms/</loc>
-        <lastmod>2021-09-23T18:06:58Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/es/dream-vacations-terms/</loc>
-        <lastmod>2021-09-23T18:06:58Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/dream-vacations-terms/</loc>
-        <lastmod>2021-09-23T18:06:58Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/dream-vacations-terms/</loc>
-        <lastmod>2021-09-23T18:06:58Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/dream-vacations-terms/</loc>
-        <lastmod>2021-09-23T18:06:58Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/dream-vacations-terms/</loc>
-        <lastmod>2021-09-23T18:06:58Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ar/get-tested/</loc>
-        <lastmod>2021-09-23T17:55:01Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/es/get-tested/</loc>
-        <lastmod>2021-09-23T17:55:01Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/get-tested/</loc>
-        <lastmod>2021-09-23T17:55:01Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/get-tested/</loc>
-        <lastmod>2021-09-23T17:55:01Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vi/get-tested/</loc>
-        <lastmod>2021-09-23T17:55:01Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/get-tested/</loc>
-        <lastmod>2021-09-23T17:55:01Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/get-tested/</loc>
-        <lastmod>2021-09-23T17:55:01Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ar/housing-for-agricultural-workers/</loc>
-        <lastmod>2021-09-23T17:54:22Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/es/housing-for-agricultural-workers/</loc>
-        <lastmod>2021-09-23T17:54:22Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/housing-for-agricultural-workers/</loc>
-        <lastmod>2021-09-23T17:54:22Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/housing-for-agricultural-workers/</loc>
-        <lastmod>2021-09-23T17:54:22Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vi/housing-for-agricultural-workers/</loc>
-        <lastmod>2021-09-23T17:54:22Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/housing-for-agricultural-workers/</loc>
-        <lastmod>2021-09-23T17:54:22Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/housing-for-agricultural-workers/</loc>
-        <lastmod>2021-09-23T17:54:22Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ar/masks-and-ppe/</loc>
-        <lastmod>2021-09-23T17:54:39Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/es/masks-and-ppe/</loc>
-        <lastmod>2021-09-23T17:54:39Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/masks-and-ppe/</loc>
-        <lastmod>2021-09-23T17:54:39Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/masks-and-ppe/</loc>
-        <lastmod>2021-09-23T17:54:39Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vi/masks-and-ppe/</loc>
-        <lastmod>2021-09-23T17:54:39Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/masks-and-ppe/</loc>
-        <lastmod>2021-09-23T17:54:39Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/masks-and-ppe/</loc>
-        <lastmod>2021-09-23T17:54:39Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ar/travel/</loc>
-        <lastmod>2021-09-23T17:55:17Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/es/travel/</loc>
-        <lastmod>2021-09-23T17:55:17Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/travel/</loc>
-        <lastmod>2021-09-23T17:55:17Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/travel/</loc>
-        <lastmod>2021-09-23T17:55:17Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vi/travel/</loc>
-        <lastmod>2021-09-23T17:55:17Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/travel/</loc>
-        <lastmod>2021-09-23T17:55:17Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/travel/</loc>
-        <lastmod>2021-09-23T17:55:17Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ar/vax-for-the-win/</loc>
-        <lastmod>2021-09-23T18:06:50Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/es/vax-for-the-win/</loc>
-        <lastmod>2021-09-23T18:06:50Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/vax-for-the-win/</loc>
-        <lastmod>2021-09-23T18:06:50Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ar/vax-for-the-win-six-flags/</loc>
-        <lastmod>2021-09-23T18:07:05Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/es/vax-for-the-win-six-flags/</loc>
-        <lastmod>2021-09-23T18:07:05Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/vax-for-the-win-six-flags/</loc>
-        <lastmod>2021-09-23T18:07:05Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/vax-for-the-win-six-flags/</loc>
-        <lastmod>2021-09-23T18:07:05Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vi/vax-for-the-win-six-flags/</loc>
-        <lastmod>2021-09-23T18:07:05Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/vax-for-the-win-six-flags/</loc>
-        <lastmod>2021-09-23T18:07:05Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/vax-for-the-win-six-flags/</loc>
-        <lastmod>2021-09-23T18:07:05Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/vax-for-the-win/</loc>
-        <lastmod>2021-09-23T18:06:50Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vi/vax-for-the-win/</loc>
-        <lastmod>2021-09-23T18:06:50Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/vax-for-the-win/</loc>
-        <lastmod>2021-09-23T18:06:50Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/vax-for-the-win/</loc>
-        <lastmod>2021-09-23T18:06:50Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/food-resources/</loc>
-        <lastmod>2021-08-09T15:36:56Z</lastmod>
+        <loc>https://covid19.ca.gov/</loc>
+        <lastmod>2021-10-13T23:29:17.227Z</lastmod>
     </url>
 
     <url>
@@ -747,28 +462,33 @@
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/business-and-employers/</loc>
-        <lastmod>2021-09-29T18:33:25Z</lastmod>
+        <loc>https://covid19.ca.gov/ar/dream-vacations-terms/</loc>
+        <lastmod>2021-09-23T18:06:58Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/contracts/</loc>
-        <lastmod>2021-09-29T00:01:26Z</lastmod>
+        <loc>https://covid19.ca.gov/es/dream-vacations-terms/</loc>
+        <lastmod>2021-09-23T18:06:58Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/get-financial-help/</loc>
-        <lastmod>2021-10-01T19:31:55Z</lastmod>
+        <loc>https://covid19.ca.gov/ko/dream-vacations-terms/</loc>
+        <lastmod>2021-09-23T18:06:58Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/housing-and-homelessness/</loc>
-        <lastmod>2021-10-01T19:07:59Z</lastmod>
+        <loc>https://covid19.ca.gov/tl/dream-vacations-terms/</loc>
+        <lastmod>2021-09-23T18:06:58Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/workers-and-businesses/</loc>
-        <lastmod>2021-10-01T21:26:13Z</lastmod>
+        <loc>https://covid19.ca.gov/zh-hans/dream-vacations-terms/</loc>
+        <lastmod>2021-09-23T18:06:58Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/dream-vacations-terms/</loc>
+        <lastmod>2021-09-23T18:06:58Z</lastmod>
     </url>
 
     <url>
@@ -842,6 +562,41 @@
     </url>
 
     <url>
+        <loc>https://covid19.ca.gov/ar/get-tested/</loc>
+        <lastmod>2021-10-11T18:40:53Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/get-tested/</loc>
+        <lastmod>2021-10-11T18:40:53Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/get-tested/</loc>
+        <lastmod>2021-10-11T18:40:53Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/get-tested/</loc>
+        <lastmod>2021-10-11T18:40:53Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/get-tested/</loc>
+        <lastmod>2021-10-11T18:40:53Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/get-tested/</loc>
+        <lastmod>2021-10-11T18:40:53Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/get-tested/</loc>
+        <lastmod>2021-10-11T18:40:53Z</lastmod>
+    </url>
+
+    <url>
         <loc>https://covid19.ca.gov/ar/housing-and-homelessness/</loc>
         <lastmod>2021-10-01T19:07:59Z</lastmod>
     </url>
@@ -874,6 +629,286 @@
     <url>
         <loc>https://covid19.ca.gov/zh-hant/housing-and-homelessness/</loc>
         <lastmod>2021-10-01T19:07:59Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/housing-for-agricultural-workers/</loc>
+        <lastmod>2021-09-23T17:54:22Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/housing-for-agricultural-workers/</loc>
+        <lastmod>2021-09-23T17:54:22Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/housing-for-agricultural-workers/</loc>
+        <lastmod>2021-09-23T17:54:22Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/housing-for-agricultural-workers/</loc>
+        <lastmod>2021-09-23T17:54:22Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/housing-for-agricultural-workers/</loc>
+        <lastmod>2021-09-23T17:54:22Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/housing-for-agricultural-workers/</loc>
+        <lastmod>2021-09-23T17:54:22Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/housing-for-agricultural-workers/</loc>
+        <lastmod>2021-09-23T17:54:22Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/masks-and-ppe/</loc>
+        <lastmod>2021-09-23T17:54:39Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/masks-and-ppe/</loc>
+        <lastmod>2021-09-23T17:54:39Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/masks-and-ppe/</loc>
+        <lastmod>2021-09-23T17:54:39Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/masks-and-ppe/</loc>
+        <lastmod>2021-09-23T17:54:39Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/masks-and-ppe/</loc>
+        <lastmod>2021-09-23T17:54:39Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/masks-and-ppe/</loc>
+        <lastmod>2021-09-23T17:54:39Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/masks-and-ppe/</loc>
+        <lastmod>2021-09-23T17:54:39Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/safely-reopening/</loc>
+        <lastmod>2021-10-06T17:52:19Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/safely-reopening/</loc>
+        <lastmod>2021-10-06T17:52:19Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/safely-reopening/</loc>
+        <lastmod>2021-10-06T17:52:19Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/safely-reopening/</loc>
+        <lastmod>2021-10-06T17:52:19Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/safely-reopening/</loc>
+        <lastmod>2021-10-06T17:52:19Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/safely-reopening/</loc>
+        <lastmod>2021-10-06T17:52:19Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/safely-reopening/</loc>
+        <lastmod>2021-10-06T17:52:19Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/travel/</loc>
+        <lastmod>2021-09-23T17:55:17Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/travel/</loc>
+        <lastmod>2021-09-23T17:55:17Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/travel/</loc>
+        <lastmod>2021-09-23T17:55:17Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/travel/</loc>
+        <lastmod>2021-09-23T17:55:17Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/travel/</loc>
+        <lastmod>2021-09-23T17:55:17Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/travel/</loc>
+        <lastmod>2021-09-23T17:55:17Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/travel/</loc>
+        <lastmod>2021-09-23T17:55:17Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/vaccination-progress-data/</loc>
+        <lastmod>2021-10-11T23:14:27Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/vaccination-progress-data/</loc>
+        <lastmod>2021-10-11T23:14:27Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/vaccination-progress-data/</loc>
+        <lastmod>2021-10-11T23:14:27Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/vaccination-progress-data/</loc>
+        <lastmod>2021-10-11T23:14:27Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/vaccination-progress-data/</loc>
+        <lastmod>2021-10-11T23:14:27Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/vaccination-progress-data/</loc>
+        <lastmod>2021-10-11T23:14:27Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/vaccination-progress-data/</loc>
+        <lastmod>2021-10-11T23:14:27Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/vaccines/</loc>
+        <lastmod>2021-10-07T23:42:59Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/vaccines/</loc>
+        <lastmod>2021-10-07T23:42:59Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/vaccines/</loc>
+        <lastmod>2021-10-07T23:42:59Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/vaccines/</loc>
+        <lastmod>2021-10-07T23:42:59Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/vaccines/</loc>
+        <lastmod>2021-10-07T23:42:59Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/vaccines/</loc>
+        <lastmod>2021-10-07T23:42:59Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/vaccines/</loc>
+        <lastmod>2021-10-07T23:42:59Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/vax-for-the-win/</loc>
+        <lastmod>2021-09-23T18:06:50Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/vax-for-the-win/</loc>
+        <lastmod>2021-09-23T18:06:50Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/vax-for-the-win/</loc>
+        <lastmod>2021-09-23T18:06:50Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/vax-for-the-win-six-flags/</loc>
+        <lastmod>2021-09-23T18:07:05Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/vax-for-the-win-six-flags/</loc>
+        <lastmod>2021-09-23T18:07:05Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/vax-for-the-win-six-flags/</loc>
+        <lastmod>2021-09-23T18:07:05Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/vax-for-the-win-six-flags/</loc>
+        <lastmod>2021-09-23T18:07:05Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/vax-for-the-win-six-flags/</loc>
+        <lastmod>2021-09-23T18:07:05Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/vax-for-the-win-six-flags/</loc>
+        <lastmod>2021-09-23T18:07:05Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/vax-for-the-win-six-flags/</loc>
+        <lastmod>2021-09-23T18:07:05Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/vax-for-the-win/</loc>
+        <lastmod>2021-09-23T18:06:50Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/vax-for-the-win/</loc>
+        <lastmod>2021-09-23T18:06:50Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/vax-for-the-win/</loc>
+        <lastmod>2021-09-23T18:06:50Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/vax-for-the-win/</loc>
+        <lastmod>2021-09-23T18:06:50Z</lastmod>
     </url>
 
     <url>
@@ -912,13 +947,38 @@
     </url>
 
     <url>
+        <loc>https://covid19.ca.gov/business-and-employers/</loc>
+        <lastmod>2021-09-29T18:33:25Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/contracts/</loc>
+        <lastmod>2021-09-29T00:01:26Z</lastmod>
+    </url>
+
+    <url>
         <loc>https://covid19.ca.gov/education/</loc>
         <lastmod>2021-10-02T01:06:52Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/equity/</loc>
-        <lastmod>2021-10-06T20:17:45Z</lastmod>
+        <loc>https://covid19.ca.gov/food-resources/</loc>
+        <lastmod>2021-10-12T01:08:57Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/get-financial-help/</loc>
+        <lastmod>2021-10-01T19:31:55Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/get-tested/</loc>
+        <lastmod>2021-10-11T18:40:53Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/housing-and-homelessness/</loc>
+        <lastmod>2021-10-01T19:07:59Z</lastmod>
     </url>
 
     <url>
@@ -927,233 +987,168 @@
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/state-dashboard/</loc>
-        <lastmod>2021-10-06T20:57:59Z</lastmod>
-    </url>
-
-    <url>
         <loc>https://covid19.ca.gov/vaccination-progress-data/</loc>
-        <lastmod>2021-10-06T18:37:15Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ar/data-and-tools/</loc>
-        <lastmod>2021-08-11T23:18:54Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/es/data-and-tools/</loc>
-        <lastmod>2021-08-11T23:18:54Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/data-and-tools/</loc>
-        <lastmod>2021-08-11T23:18:54Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/data-and-tools/</loc>
-        <lastmod>2021-08-11T23:18:54Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vi/data-and-tools/</loc>
-        <lastmod>2021-08-11T23:18:54Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/data-and-tools/</loc>
-        <lastmod>2021-08-11T23:18:54Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/data-and-tools/</loc>
-        <lastmod>2021-08-11T23:18:54Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ar/equity/</loc>
-        <lastmod>2021-08-25T22:49:23Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/es/equity/</loc>
-        <lastmod>2021-08-25T22:49:23Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/equity/</loc>
-        <lastmod>2021-08-25T22:49:23Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/equity/</loc>
-        <lastmod>2021-08-25T22:49:23Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vi/equity/</loc>
-        <lastmod>2021-08-25T22:49:23Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/equity/</loc>
-        <lastmod>2021-08-25T22:49:23Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/equity/</loc>
-        <lastmod>2021-08-25T22:49:23Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ar/safely-reopening/</loc>
-        <lastmod>2021-09-23T17:45:35Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/es/safely-reopening/</loc>
-        <lastmod>2021-09-23T17:45:35Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/safely-reopening/</loc>
-        <lastmod>2021-09-23T17:45:35Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/safely-reopening/</loc>
-        <lastmod>2021-09-23T17:45:35Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vi/safely-reopening/</loc>
-        <lastmod>2021-09-23T17:45:35Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/safely-reopening/</loc>
-        <lastmod>2021-09-23T17:45:35Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/safely-reopening/</loc>
-        <lastmod>2021-09-23T17:45:35Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ar/state-dashboard/</loc>
-        <lastmod>2021-10-04T21:59:07Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/es/state-dashboard/</loc>
-        <lastmod>2021-10-04T21:59:07Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/state-dashboard/</loc>
-        <lastmod>2021-10-04T21:59:07Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/state-dashboard/</loc>
-        <lastmod>2021-10-04T21:59:07Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vi/state-dashboard/</loc>
-        <lastmod>2021-10-04T21:59:07Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/state-dashboard/</loc>
-        <lastmod>2021-10-04T21:59:07Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/state-dashboard/</loc>
-        <lastmod>2021-10-04T21:59:07Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ar/vaccination-progress-data/</loc>
-        <lastmod>2021-10-05T16:07:41Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/es/vaccination-progress-data/</loc>
-        <lastmod>2021-10-05T16:07:41Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/vaccination-progress-data/</loc>
-        <lastmod>2021-10-05T16:07:41Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/vaccination-progress-data/</loc>
-        <lastmod>2021-10-05T16:07:41Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vi/vaccination-progress-data/</loc>
-        <lastmod>2021-10-05T16:07:41Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/vaccination-progress-data/</loc>
-        <lastmod>2021-10-05T16:07:41Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/vaccination-progress-data/</loc>
-        <lastmod>2021-10-05T16:07:41Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ar/vaccines/</loc>
-        <lastmod>2021-09-30T16:31:48Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/es/vaccines/</loc>
-        <lastmod>2021-09-30T16:31:48Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/vaccines/</loc>
-        <lastmod>2021-09-30T16:31:48Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/vaccines/</loc>
-        <lastmod>2021-09-30T16:31:48Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vi/vaccines/</loc>
-        <lastmod>2021-09-30T16:31:48Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/vaccines/</loc>
-        <lastmod>2021-09-30T16:31:48Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/vaccines/</loc>
-        <lastmod>2021-09-30T16:31:48Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/data-and-tools/</loc>
-        <lastmod>2021-10-06T18:15:58Z</lastmod>
+        <lastmod>2021-10-11T23:14:27Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/vaccines/</loc>
-        <lastmod>2021-10-06T21:52:21Z</lastmod>
+        <lastmod>2021-10-07T23:42:59Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/workers-and-businesses/</loc>
+        <lastmod>2021-10-01T21:26:13Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/equity/</loc>
+        <lastmod>2021-10-12T21:11:33Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/data-and-tools/</loc>
+        <lastmod>2021-10-13T22:57:30Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/data-and-tools/</loc>
+        <lastmod>2021-10-13T22:57:30Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/data-and-tools/</loc>
+        <lastmod>2021-10-13T22:57:30Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/data-and-tools/</loc>
+        <lastmod>2021-10-13T22:57:30Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/data-and-tools/</loc>
+        <lastmod>2021-10-13T22:57:30Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/data-and-tools/</loc>
+        <lastmod>2021-10-13T22:57:30Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/equity/</loc>
+        <lastmod>2021-10-12T21:11:33Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/equity/</loc>
+        <lastmod>2021-10-12T21:11:33Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/equity/</loc>
+        <lastmod>2021-10-12T21:11:33Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/equity/</loc>
+        <lastmod>2021-10-12T21:11:33Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/equity/</loc>
+        <lastmod>2021-10-12T21:11:33Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/equity/</loc>
+        <lastmod>2021-10-12T21:11:33Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/equity/</loc>
+        <lastmod>2021-10-12T21:11:33Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/food-resources/</loc>
+        <lastmod>2021-10-12T01:08:57Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/food-resources/</loc>
+        <lastmod>2021-10-12T01:08:57Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/food-resources/</loc>
+        <lastmod>2021-10-12T01:08:57Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/food-resources/</loc>
+        <lastmod>2021-10-12T01:08:57Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/food-resources/</loc>
+        <lastmod>2021-10-12T01:08:57Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/food-resources/</loc>
+        <lastmod>2021-10-12T01:08:57Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/food-resources/</loc>
+        <lastmod>2021-10-12T01:08:57Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/state-dashboard/</loc>
+        <lastmod>2021-10-13T22:08:10Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/state-dashboard/</loc>
+        <lastmod>2021-10-13T22:08:10Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/state-dashboard/</loc>
+        <lastmod>2021-10-13T22:08:10Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/state-dashboard/</loc>
+        <lastmod>2021-10-13T22:08:10Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/state-dashboard/</loc>
+        <lastmod>2021-10-13T22:08:10Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/state-dashboard/</loc>
+        <lastmod>2021-10-13T22:08:10Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/state-dashboard/</loc>
+        <lastmod>2021-10-13T22:08:10Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/data-and-tools/</loc>
+        <lastmod>2021-10-13T22:57:30Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/state-dashboard/</loc>
+        <lastmod>2021-10-13T22:08:10Z</lastmod>
     </url>
 
 </urlset>
