@@ -177,41 +177,6 @@
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/ar/mega-events/</loc>
-        <lastmod>2021-09-22T19:48:22Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/es/mega-events/</loc>
-        <lastmod>2021-09-22T19:48:22Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/mega-events/</loc>
-        <lastmod>2021-09-22T19:48:22Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/mega-events/</loc>
-        <lastmod>2021-09-22T19:48:22Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vi/mega-events/</loc>
-        <lastmod>2021-09-22T19:48:22Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/mega-events/</loc>
-        <lastmod>2021-09-22T19:48:22Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/mega-events/</loc>
-        <lastmod>2021-09-22T19:48:22Z</lastmod>
-    </url>
-
-    <url>
         <loc>https://covid19.ca.gov/ar/resources-for-emotional-support-and-well-being/</loc>
         <lastmod>2021-09-22T19:46:51Z</lastmod>
     </url>
@@ -352,11 +317,6 @@
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/mega-events/</loc>
-        <lastmod>2021-09-22T19:48:22Z</lastmod>
-    </url>
-
-    <url>
         <loc>https://covid19.ca.gov/resources-for-emotional-support-and-well-being/</loc>
         <lastmod>2021-09-22T19:46:51Z</lastmod>
     </url>
@@ -388,7 +348,7 @@
 
     <url>
         <loc>https://covid19.ca.gov/</loc>
-        <lastmod>2021-10-13T23:29:17.227Z</lastmod>
+        <lastmod>2021-10-29T20:43:10.191Z</lastmod>
     </url>
 
     <url>
@@ -489,6 +449,76 @@
     <url>
         <loc>https://covid19.ca.gov/zh-hant/dream-vacations-terms/</loc>
         <lastmod>2021-09-23T18:06:58Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/equity/</loc>
+        <lastmod>2021-10-12T21:11:33Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/equity/</loc>
+        <lastmod>2021-10-12T21:11:33Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/equity/</loc>
+        <lastmod>2021-10-12T21:11:33Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/equity/</loc>
+        <lastmod>2021-10-12T21:11:33Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/equity/</loc>
+        <lastmod>2021-10-12T21:11:33Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/equity/</loc>
+        <lastmod>2021-10-12T21:11:33Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/equity/</loc>
+        <lastmod>2021-10-12T21:11:33Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/food-resources/</loc>
+        <lastmod>2021-10-12T01:08:57Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/food-resources/</loc>
+        <lastmod>2021-10-12T01:08:57Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/food-resources/</loc>
+        <lastmod>2021-10-12T01:08:57Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/food-resources/</loc>
+        <lastmod>2021-10-12T01:08:57Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/food-resources/</loc>
+        <lastmod>2021-10-12T01:08:57Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/food-resources/</loc>
+        <lastmod>2021-10-12T01:08:57Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/food-resources/</loc>
+        <lastmod>2021-10-12T01:08:57Z</lastmod>
     </url>
 
     <url>
@@ -787,18 +817,8 @@
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/get-financial-help/</loc>
-        <lastmod>2021-10-01T19:31:55Z</lastmod>
-    </url>
-
-    <url>
         <loc>https://covid19.ca.gov/housing-and-homelessness/</loc>
         <lastmod>2021-10-01T19:07:59Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/workers-and-businesses/</loc>
-        <lastmod>2021-10-01T21:26:13Z</lastmod>
     </url>
 
     <url>
@@ -807,103 +827,43 @@
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/ar/equity/</loc>
-        <lastmod>2021-10-12T21:11:33Z</lastmod>
+        <loc>https://covid19.ca.gov/get-financial-help/</loc>
+        <lastmod>2021-10-01T19:31:55Z</lastmod>
     </url>
 
     <url>
-        <loc>https://covid19.ca.gov/es/equity/</loc>
-        <lastmod>2021-10-12T21:11:33Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/equity/</loc>
-        <lastmod>2021-10-12T21:11:33Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/equity/</loc>
-        <lastmod>2021-10-12T21:11:33Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vi/equity/</loc>
-        <lastmod>2021-10-12T21:11:33Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/equity/</loc>
-        <lastmod>2021-10-12T21:11:33Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/equity/</loc>
-        <lastmod>2021-10-12T21:11:33Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ar/food-resources/</loc>
-        <lastmod>2021-10-12T01:08:57Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/es/food-resources/</loc>
-        <lastmod>2021-10-12T01:08:57Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/ko/food-resources/</loc>
-        <lastmod>2021-10-12T01:08:57Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/tl/food-resources/</loc>
-        <lastmod>2021-10-12T01:08:57Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vi/food-resources/</loc>
-        <lastmod>2021-10-12T01:08:57Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hans/food-resources/</loc>
-        <lastmod>2021-10-12T01:08:57Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/zh-hant/food-resources/</loc>
-        <lastmod>2021-10-12T01:08:57Z</lastmod>
+        <loc>https://covid19.ca.gov/workers-and-businesses/</loc>
+        <lastmod>2021-10-01T21:26:13Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/ar/data-and-tools/</loc>
-        <lastmod>2021-10-20T18:27:32Z</lastmod>
+        <lastmod>2021-10-27T16:58:13Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/es/data-and-tools/</loc>
-        <lastmod>2021-10-20T18:27:32Z</lastmod>
+        <lastmod>2021-10-27T16:58:13Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/ko/data-and-tools/</loc>
-        <lastmod>2021-10-20T18:27:32Z</lastmod>
+        <lastmod>2021-10-27T16:58:13Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/tl/data-and-tools/</loc>
-        <lastmod>2021-10-20T18:27:32Z</lastmod>
+        <lastmod>2021-10-27T16:58:13Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/zh-hans/data-and-tools/</loc>
-        <lastmod>2021-10-20T18:27:32Z</lastmod>
+        <lastmod>2021-10-27T16:58:13Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/zh-hant/data-and-tools/</loc>
-        <lastmod>2021-10-20T18:27:32Z</lastmod>
+        <lastmod>2021-10-27T16:58:13Z</lastmod>
     </url>
 
     <url>
@@ -943,37 +903,72 @@
 
     <url>
         <loc>https://covid19.ca.gov/ar/get-tested/</loc>
-        <lastmod>2021-10-25T22:56:30Z</lastmod>
+        <lastmod>2021-10-27T23:53:47Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/es/get-tested/</loc>
-        <lastmod>2021-10-25T22:56:30Z</lastmod>
+        <lastmod>2021-10-27T23:53:47Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/ko/get-tested/</loc>
-        <lastmod>2021-10-25T22:56:30Z</lastmod>
+        <lastmod>2021-10-27T23:53:47Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/tl/get-tested/</loc>
-        <lastmod>2021-10-25T22:56:30Z</lastmod>
+        <lastmod>2021-10-27T23:53:47Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/vi/get-tested/</loc>
-        <lastmod>2021-10-25T22:56:30Z</lastmod>
+        <lastmod>2021-10-27T23:53:47Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/zh-hans/get-tested/</loc>
-        <lastmod>2021-10-25T22:56:30Z</lastmod>
+        <lastmod>2021-10-27T23:53:47Z</lastmod>
     </url>
 
     <url>
         <loc>https://covid19.ca.gov/zh-hant/get-tested/</loc>
-        <lastmod>2021-10-25T22:56:30Z</lastmod>
+        <lastmod>2021-10-27T23:53:47Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ar/mega-events/</loc>
+        <lastmod>2021-10-28T17:37:11Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/es/mega-events/</loc>
+        <lastmod>2021-10-28T17:37:11Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/ko/mega-events/</loc>
+        <lastmod>2021-10-28T17:37:11Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/tl/mega-events/</loc>
+        <lastmod>2021-10-28T17:37:11Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vi/mega-events/</loc>
+        <lastmod>2021-10-28T17:37:11Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hans/mega-events/</loc>
+        <lastmod>2021-10-28T17:37:11Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/zh-hant/mega-events/</loc>
+        <lastmod>2021-10-28T17:37:11Z</lastmod>
     </url>
 
     <url>
@@ -1082,6 +1077,51 @@
     </url>
 
     <url>
+        <loc>https://covid19.ca.gov/data-and-tools/</loc>
+        <lastmod>2021-10-27T16:58:13Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/education/</loc>
+        <lastmod>2021-10-26T15:32:17Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/get-tested/</loc>
+        <lastmod>2021-10-27T23:53:47Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/holidays/</loc>
+        <lastmod>2021-10-27T22:36:58Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/mega-events/</loc>
+        <lastmod>2021-10-28T17:37:11Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/safely-reopening/</loc>
+        <lastmod>2021-10-26T17:30:56Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/state-dashboard/</loc>
+        <lastmod>2021-10-26T17:23:24Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vaccination-progress-data/</loc>
+        <lastmod>2021-10-25T23:22:42Z</lastmod>
+    </url>
+
+    <url>
+        <loc>https://covid19.ca.gov/vaccines/</loc>
+        <lastmod>2021-10-29T16:16:03Z</lastmod>
+    </url>
+
+    <url>
         <loc>https://covid19.ca.gov/ar/vaccines/</loc>
         <lastmod>2021-10-26T22:56:28Z</lastmod>
     </url>
@@ -1113,46 +1153,6 @@
 
     <url>
         <loc>https://covid19.ca.gov/zh-hant/vaccines/</loc>
-        <lastmod>2021-10-26T22:56:28Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/data-and-tools/</loc>
-        <lastmod>2021-10-27T16:58:13Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/education/</loc>
-        <lastmod>2021-10-26T15:32:17Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/get-tested/</loc>
-        <lastmod>2021-10-25T22:56:30Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/holidays/</loc>
-        <lastmod>2021-10-26T17:31:03Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/safely-reopening/</loc>
-        <lastmod>2021-10-26T17:30:56Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/state-dashboard/</loc>
-        <lastmod>2021-10-26T17:23:24Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vaccination-progress-data/</loc>
-        <lastmod>2021-10-25T23:22:42Z</lastmod>
-    </url>
-
-    <url>
-        <loc>https://covid19.ca.gov/vaccines/</loc>
         <lastmod>2021-10-26T22:56:28Z</lastmod>
     </url>
 
