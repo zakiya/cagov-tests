@@ -9540,6 +9540,13 @@ ul.small-text {
   padding: 2.5rem;
   color: #fff !important; }
 
+#more {
+  border-top: 0;
+  height: 0; }
+
+main > .container > .row > .col-lg-10 > p:last-of-type:empty {
+  margin: 0; }
+
 .navbar-brand {
   background-size: 30%;
   padding-left: 40px;
@@ -12310,8 +12317,8 @@ cagov-navoverlay {
   order: 3; }
   cagov-navoverlay .menu-trigger {
     background: #ff8000;
-    margin-left: 1em;
     border: 0;
+    height: 67px;
     padding: .5em 1em .5em 1em;
     font-family: "Montserrat", sans-serif;
     transition: all 0.5s cubic-bezier(0.57, 0.2, 0.21, 0.89);
@@ -12319,7 +12326,7 @@ cagov-navoverlay {
     display: inline-block;
     cursor: pointer;
     position: relative;
-    top: -2px;
+    top: 0;
     right: 0;
     transition: all 0.5s cubic-bezier(0.57, 0.2, 0.21, 0.89);
     box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.2), 0 0 0 0 #ff8000;
@@ -12332,6 +12339,9 @@ cagov-navoverlay {
     @media (min-width: 48rem) {
       cagov-navoverlay .menu-trigger {
         z-index: 2000; } }
+    @media (min-width: 64rem) {
+      cagov-navoverlay .menu-trigger {
+        display: none; } }
     cagov-navoverlay .menu-trigger-label {
       color: #1f2574; }
     cagov-navoverlay .menu-trigger:hover {
@@ -12345,7 +12355,6 @@ cagov-navoverlay {
       background: #ffcf44;
       outline: 2px solid #1f2574; }
     cagov-navoverlay .menu-trigger:focus {
-      box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.2), 0 0 0 2px #1f2574;
       outline: 0 solid #1f2574;
       background: #ffcf44; }
       @media (min-width: 81.25rem) {
@@ -12472,6 +12481,9 @@ cagov-navoverlay .expanded-menu {
       opacity: 0;
       padding: 1rem;
       transform: translateX(0); } }
+  @media (min-width: 64rem) {
+    cagov-navoverlay .expanded-menu {
+      display: none; } }
   @media (min-width: 81.25rem) {
     cagov-navoverlay .expanded-menu {
       padding: 2rem; } }
@@ -12842,6 +12854,9 @@ cagov-navoverlay .mobile-menu-close {
   opacity: 0;
   visibility: hidden;
   transition: all 0.5s cubic-bezier(0.57, 0.2, 0.21, 0.89); }
+  @media (min-width: 64rem) {
+    cagov-navoverlay .mobile-menu-close {
+      display: none; } }
 
 cagov-navoverlay.display-menu {
   overflow: hidden; }
@@ -13819,6 +13834,7 @@ img ~ span.ca-gov-icon-external-link,
 /* Header logo */
 .header {
   background: #1f2574;
+  min-height: 67px;
   width: 100%;
   z-index: 1000;
   /*transition: transform 0.3s, height 0.3s, 0.4s box-shadow $slow-curve;*/
@@ -13939,19 +13955,16 @@ body.interior-page {
   border-radius: 2rem;
   transition: background 0.5s cubic-bezier(0.57, 0.2, 0.21, 0.89);
   padding: 0;
-  margin: 0.5rem 0.5rem 0.5rem 1em;
+  margin: .5rem 16px .5rem auto;
   order: 2;
-  width: 37%; }
-  @media (max-width: 48rem) {
-    .header-search {
-      width: 34%; } }
+  width: calc(100% - 232px);
+  max-width: 12.5rem; }
   @media (max-width: 20.5rem) {
-    .header-search {
-      width: 25%; }
-      .header-search .header-search-field::placeholder {
-        visibility: hidden; } }
+    .header-search .header-search-field::placeholder {
+      visibility: hidden; } }
   @media (min-width: 48rem) {
     .header-search {
+      max-width: none;
       width: 12.5rem;
       padding: 0 0 0 0.25rem;
       margin: 0;
@@ -14207,10 +14220,10 @@ body.interior-page {
 
 /*translate*/
 header .dropdown {
-  margin-right: auto; }
+  width: 117px; }
   @media (min-width: 48rem) {
     header .dropdown {
-      margin-right: 0; } }
+      width: auto; } }
 
 .translate {
   position: relative;
@@ -14350,27 +14363,30 @@ hero-stats {
   hero-stats .hero {
     position: relative;
     color: #fff;
-    width: 100%; }
-    @media (min-width: 48rem) {
-      hero-stats .hero-padding-top {
-        margin-top: 65px; } }
-    @media (max-width: 400px) {
-      hero-stats .hero-padding-top {
-        margin-top: 120px; } }
-    @media (max-device-width: 640px) {
-      hero-stats .hero-padding-top {
-        margin-top: 120px; } }
-    @media (max-width: 20.5rem) {
-      hero-stats .hero-padding-top {
-        margin-top: 135px; } }
-    @media (min-width: 48rem) {
-      hero-stats .hero {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: nowrap;
-        justify-content: center;
-        align-content: center;
-        align-items: flex-end; } }
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-content: center;
+    align-items: flex-end; }
+    hero-stats .hero-padding-top {
+      margin-top: 120px; }
+      @media (min-width: 48rem) {
+        hero-stats .hero-padding-top {
+          margin-top: 65px; } }
+      @media (max-width: 400px) {
+        hero-stats .hero-padding-top {
+          margin-top: 120px; } }
+      @media (max-device-width: 640px) {
+        hero-stats .hero-padding-top {
+          margin-top: 120px; } }
+      @media (max-width: 20.5rem) {
+        hero-stats .hero-padding-top {
+          margin-top: 135px; } }
+      @media (min-width: 64rem) {
+        hero-stats .hero-padding-top {
+          margin-top: 129px; } }
     hero-stats .hero-wrap {
       position: relative;
       z-index: 500; }
@@ -14394,8 +14410,10 @@ hero-stats {
       text-align: left;
       padding: 1.5rem;
       min-height: 60vh;
-      /* align-items: flex-end; */
-      /* align-self: flex-end; */ }
+      display: flex;
+      width: 100%;
+      min-height: auto;
+      align-self: center; }
       @media (min-width: 48rem) {
         hero-stats .hero-text {
           display: flex;
@@ -14987,8 +15005,9 @@ video-section .video {
   grid-gap: 1.5rem;
   margin: 0; }
 
-.cagov-grid, .cagov-grid .block-editor-block-list__layout {
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); }
+@media (min-width: 48rem) {
+  .cagov-grid, .cagov-grid .block-editor-block-list__layout {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); } }
 
 .cagov-stack * + * {
   margin-top: 1.5rem; }
@@ -15002,11 +15021,16 @@ video-section .video {
   border-bottom: 0.3rem solid #1f2574;
   border-bottom: 0.3rem solid var(--primary-color, #1f2574);
   border-radius: 0.3rem;
-  min-width: 300px;
   min-height: 50px;
   margin-top: 0;
   display: flex;
   justify-content: space-between; }
+  @media (max-width: 48rem) {
+    .cagov-card {
+      width: 100%; } }
+  @media (min-width: 48rem) {
+    .cagov-card {
+      min-width: 300px; } }
 
 .cagov-card .card-text {
   color: #1f2574;
@@ -16052,6 +16076,89 @@ figure.tools table td:nth-child(4), figure.tools table th:nth-child(4) {
 
 .wp-block-table ul {
   margin-bottom: 0 !important; }
+
+cagov-menu-ribbon .menu-ribbon--wrapper {
+  background-color: white;
+  display: none; }
+  @media (min-width: 64rem) {
+    cagov-menu-ribbon .menu-ribbon--wrapper {
+      display: block; } }
+  .interior-page cagov-menu-ribbon .menu-ribbon--wrapper {
+    background-color: transparent; }
+
+cagov-menu-ribbon .menu-ribbon--nav {
+  width: 100%;
+  max-width: 81.25rem;
+  margin: 0 auto;
+  position: relative;
+  position: relative;
+  width: 100%;
+  padding-left: -12px; }
+
+cagov-menu-ribbon .menu-ribbon--primary {
+  position: relative;
+  padding-right: 24px; }
+  cagov-menu-ribbon .menu-ribbon--primary.js-open .menu-ribbon--secondary {
+    display: block;
+    opacity: 1;
+    visibility: visible; }
+  cagov-menu-ribbon .menu-ribbon--primary.js-open svg {
+    transform: rotate(180deg); }
+
+cagov-menu-ribbon .menu-ribbon--button {
+  appearance: none;
+  -webkit-appearance: value;
+  -moz-appearance: value;
+  appearance: value;
+  background: none;
+  border: 0;
+  color: #1f2574;
+  font-weight: 300;
+  height: 64px;
+  margin: 0;
+  padding: 0 12px; }
+  cagov-menu-ribbon .menu-ribbon--button:focus {
+    outline: 2px solid #ffcf44; }
+  cagov-menu-ribbon .menu-ribbon--button:hover {
+    text-decoration: underline; }
+  .interior-page cagov-menu-ribbon .menu-ribbon--button {
+    color: #fff; }
+
+cagov-menu-ribbon svg {
+  fill: #ff8000;
+  width: 0.75rem;
+  max-height: 1rem;
+  margin-left: 0.25rem;
+  transition: all 0.6s cubic-bezier(0.5, 1.65, 0.4, 0.8); }
+
+cagov-menu-ribbon .menu-ribbon--secondary {
+  background-color: white;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+  display: none;
+  left: 0;
+  margin: 0;
+  min-width: 308px;
+  opacity: 0;
+  padding: 0;
+  position: absolute;
+  top: 60px;
+  transition: all 0.6s cubic-bezier(0.5, 1.65, 0.4, 0.8);
+  visibility: hidden;
+  z-index: 20; }
+  cagov-menu-ribbon .menu-ribbon--secondary a {
+    text-decoration: none; }
+
+cagov-menu-ribbon li {
+  list-style: none; }
+
+cagov-menu-ribbon a {
+  color: #1f2574;
+  display: inline-block;
+  font-weight: 300;
+  padding: 12px 16px;
+  width: 100%; }
+  cagov-menu-ribbon a:hover {
+    text-decoration: underline; }
 
 /* Overrides for non-English languages. */
 html:not([lang='en-US']) footer-section .social {
