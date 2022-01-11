@@ -14,20 +14,33 @@
 
 ## Run tests
 
-1. Run covid locally
-   a. Go to covid19 repo root. (`z covid19`\*)
+1. Run site locally
+   a. Go to project repo root. (`z covid19`\*)
    b. `git pull` (optional)
-   c. `npm run start`
+   c. `npm run start` (or equivalent)
 2. Go back to this project root in another terminal window. (`z backstopjs`)
-3. Verify the url of the local site matches value in .env
+3. Verify the url of live and local sites match value in .env
 4. Initiate backstop with `npm run backstop`
 
-### Test commands
 
-Generate reference files for main test: `npm run covid:ref`
-Test local against stored references: `npm run covid:test`
-Generate reference files for interactive test: `covid:interactive:ref`
-Test local against stored interactive references: `covid:interactive:test`
+### Test commands - cannabis
+
+- Generate reference files for main test: `npm run cannabis:ref`
+
+- Test local against stored references: `npm run cannabis:test`
+
+
+
+### Test commands - covid
+
+- Generate reference files for main test: `npm run covid:ref`
+
+- Test local against stored references: `npm run covid:test`
+
+- Generate reference files for interactive test: `covid:interactive:ref`
+
+- Test local against stored interactive references: `covid:interactive:test`
+
 
 # Notes for starting a BackstopJS project from scratch.
 

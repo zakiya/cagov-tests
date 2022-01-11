@@ -8,7 +8,9 @@
     "covid:ref": "SITE=covid backstop reference --config=backstop.js",
     "covid:test": "SITE=covid backstop test --config=backstop.js",
     "covid:interactive:ref": "SITE=covid TEST_TYPE=interactive backstop reference --config=backstop.js",
-    "covid:interactive:test": "SITE=covid TEST_TYPE=interactive backstop test --config=backstop.js"
+    "covid:interactive:test": "SITE=covid TEST_TYPE=interactive backstop test --config=backstop.js",
+    "cannabis:ref": "SITE=cannabis backstop reference --config=backstop.js",
+    "cannabis:test": "SITE=cannabis backstop test --config=backstop.js"
   },
   "author": "Zakiya Khabir",
   "license": "MIT",
