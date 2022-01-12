@@ -23,31 +23,21 @@ const desktopShort = {
 // Define default test.
 // Get paths. cd ~/Sites/covid10/docs && ls -d */| pbcopy
 let pathsToTest = [
-  "/",
-  "/2021/12/06/cannabis-advisory-committee-meeting/",
-  "/resources/rulemaking/",
-  "/2021/12/21/department-of-cannabis-control-files-emergency-regulations-for-equity-fee-waivers-public-comment-period-begins-today/",
-  "/2021/12/21/californias-cannabis-department-seeks-members-for-cannabis-advisory-committee/",
-  "/about-us/dcc-events/",
-  "/serp/?q=cannabis",
-  "/about-us/announcements/",
+  "",
+  "2021/12/06/cannabis-advisory-committee-meeting/index.html",
+  "resources/rulemaking/index.html",
+  "2021/12/21/department-of-cannabis-control-files-emergency-regulations-for-equity-fee-waivers-public-comment-period-begins-today/index.html",
+  "2021/12/21/californias-cannabis-department-seeks-members-for-cannabis-advisory-committee/index.html",
+  "about-us/dcc-events/index.html",
+  "serp/index.html?q=cannabis",
+  "about-us/announcements/index.html",
  ];
 
 let clickSelectorsToTest = [];
 let keyPressSelectorsToTest = [];
 let hoverSelectorsToTest = [];
 let viewportsToTest = [phone, desktop];
-let readySelectorToTest = "main";
-
-// ---------
-// Interactive test
-// Modify default settings
-if (process.env.TEST_TYPE == "interactive") {
-  pathsToTest = ["vaccines/"];
-  clickSelectorsToTest = [".dropdown-toggle"];
-  hoverSelectorsToTest = [".expanded-menu-search-form"];
-  viewportsToTest = [desktopShort];
-}
+let readySelectorToTest = "body";
 
 // -------------
 // Define scenario.
@@ -64,7 +54,7 @@ for (const value of pathsToTest) {
     hoverSelectors: hoverSelectorsToTest,
     clickSelectors: clickSelectorsToTest,
     selectorExpansion: true,
-    selectors: ["main"],
+    selectors: ["body"],
     readyEvent: null,
     delay: 7000,
     misMatchThreshold: 0.1,
