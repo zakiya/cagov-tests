@@ -1,12 +1,12 @@
 ## covid to netlify
 
 ```bash
-git checkout -b covid-5456
+git checkout -b cannabis-475
 cd covid19-clone
-cp -rf ~/Sites/covid19/docs .
+cp -rf ~/Sites/cannabis.ca.gov/docs .
 git add docs
-git commit -m "docs 2021-12-10-01"
-git push
+git commit -m "docs 2021-04-12-01"
+git push --set-upstream origin cannabis-475
 gh pr create
 gh pr view
 ```
